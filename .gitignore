@@ -1,0 +1,38 @@
+# Datasets and Image files (Excluded per user request)
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.tiff
+*.gif
+*.JPG
+*.JPEG
+*.PNG
+
+# Dataset Folders
+Cercospora.v1i.coco-segmentation/
+Eggplant Dataset A Comprehensive Dataset for Agricultural Research and Disease Detection/
+Eggplant Disease Recognition Dataset/
+Eggplant Leaf Disease Detection Dataset/
+Eggplant disease detection.v1i.coco/
+Eggplant fruit diseases.v1i.coco/
+Fruit rot.v1i.coco/
+diseases/
+*.coco/
+*.coco-segmentation/
+
+# Training Outputs & Cache
+runs/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments & IDEs
+.venv/
+venv/
+ENV/
+.idea/
+.vscode/
+.gemini/
+.DS_Store
