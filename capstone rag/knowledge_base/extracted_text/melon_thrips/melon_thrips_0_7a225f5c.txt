@@ -1,0 +1,38 @@
+Thrips control in brinjal is a season-long job, not a one-time spray. These tiny, rasping-sucking insects (mainly
+) scrape the surface of leaves, buds, and young fruit to feed on the sap underneath, leaving behind silvery streaks, curled foliage, and scarred fruit that farmers can't sell at full price. Because thrips breed fast and can build resistance quickly, timely, rotated brinjal pest management across chemical modes of action and biological options is the best way to keep populations from spiraling out of control.
+How to Identify Thrips in the Field
+Silvery, streaked, or papery patches on leaves where the surface has been rasped and sap sucked out
+Young leaves that appear curled, cupped, or distorted as they expand
+Tiny black specks of frass (excreta) scattered on the underside of leaves
+Minute, slender, pale-yellow to dark-brown insects visible on leaf undersides or inside flower buds when tapped onto a white card or paper
+Scarring, russeting, or malformed growth on young fruit surfaces
+An overall bronzed, dull look to the crop canopy with premature leaf drop in heavy infestations
+Cultural and Mechanical Control Measures
+Destroy crop residues and alternate weed hosts after harvest to break the thrips breeding cycle between seasons.
+Thrips are drawn to blue more strongly than yellow, so install blue traps at canopy height to monitor and mass-trap adults.
+Thrips populations spike in hot, dry conditions, so maintain adequate and consistent irrigation through the season.
+Silver or reflective mulch on beds helps disorient and repel incoming thrips from field margins.
+Tall barrier crops like maize or sorghum along field edges reduce thrips drift into the main brinjal plot.
+Avoid excess nitrogen, which produces soft, sap-rich growth that thrips are drawn to.
+1. Cyantraniliprole 10.26% OD
+Cyantraniliprole belongs to the anthranilic diamide group and works through both contact and systemic action, moving translaminarly to reach thrips tucked into buds and leaf undersides. It disrupts the pest's muscle function, causing rapid feeding cessation followed by paralysis, so crop damage stops well before the insect actually dies. Because it targets muscle activity rather than the nervous system, it also fits well into resistance-rotation programmes alongside other insecticide groups.
+2. Broflanilide 300 g/l SC
+Broflanilide is a meta-diamide insecticide that acts as a GABA-gated chloride channel allosteric modulator, keeping the pest's nervous system in a constant state of over-excitation until it is paralysed. This mode of action is distinct from older chemistries, which makes it a useful rotation partner where thrips have grown tolerant of other classes. It has translaminar movement for coverage on both leaf surfaces and is primarily valued as a larvicide with strong knockdown on thrips.
+3. Pyriproxyfen 8% + Dinotefuran 5% + Diafenthiuron 18% SC
+This ternary mix combines three different mechanisms in one spray: dinotefuran acts as a fast-acting neonicotinoid that blocks feeding, diafenthiuron interferes with the pest's cellular energy production for contact kill, and pyriproxyfen is an insect growth regulator that stops surviving nymphs from developing into reproductive adults. Together they attack thrips at more than one life stage, giving both quick knockdown and longer residual control than a single-active product.
+Best Agrolife Ronfen Insecticide
+4. Fluxametamide 10% w/w EC
+Fluxametamide is an isoxazoline insecticide that disrupts GABA and glutamate-gated chloride channels in the pest's nervous system, causing loss of coordinated movement and feeding soon after contact. It moves translaminarly through leaf tissue, so it also reaches thrips sheltering deep inside flower buds and folded young leaves. Its activity holds up reasonably well through light rain, giving a steadier window of protection once sprayed.
+This is a lower-concentration formulation of the same meta-diamide chemistry as the 300 g/l product above, built around quicker rainfastness and a short pre-harvest interval. It works the same way, disrupting GABA-gated chloride channels to overstimulate the pest's nervous system, and offers systemic movement within the plant for extended protection against both thrips and the caterpillar pests that often show up alongside them in brinjal.
+Indofil Alecto Insecticide
+6. Fluxametamide 3.8% w/w + Pyridaben 9.5% w/w SC
+This combination pairs fluxametamide's action on GABA and glutamate-gated chloride channels with pyridaben, which blocks the pest's mitochondrial respiration for a fast knockdown effect. Together they cover a wider spectrum than either active alone, useful when thrips, mites, and other sucking pests are active on the crop at the same time. The formulation also moves translaminarly, helping it reach thrips hidden on leaf undersides and inside buds.
+Godrej Rashinban Insecticide
+7. Clothianidin 3.5% + Pyriproxyfen 8% SE
+Clothianidin is a neonicotinoid that binds to the pest's acetylcholine receptors, rapidly disrupting nerve signalling and stopping feeding, while pyriproxyfen works alongside it as a growth regulator that prevents nymphs from maturing into breeding adults. This pairing gives both immediate control of active thrips and a longer-term dent in the next generation, with translaminar movement that keeps the whole leaf protected.
+Sumitomo Pyclome Insecticide
+8. Microbial Consortium (Verticillium lecanii + Beauveria bassiana + Metarhizium anisopliae)
+This is a combination of three naturally occurring entomopathogenic fungi used as a biological insecticide against thrips and other sucking pests. Spores that land on a thrips attach to its body, germinate, and grow through the outer cuticle, gradually colonising the insect and draining its nutrients until it dies. Because it works through direct infection rather than a chemical toxin, it's gentler on natural predators and fits well into IPM or organic-leaning brinjal programmes, performing best when applied early and paired with the cultural practices above.
+EBS All Expert Bio Pesticide
+Always confirm current label registration, approved dosage, water volume, and pre-harvest interval (PHI) for your state before using any product labels are periodically revised by regulatory authorities.
+This guide is a general advisory. Do your own research and verification before using any product. Always confirm suitability for your crop stage, region, and field conditions before making any purchase, spray, or crop-management decision.

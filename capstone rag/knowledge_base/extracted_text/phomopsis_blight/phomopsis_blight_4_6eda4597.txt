@@ -1,0 +1,1117 @@
+Annals of Plant and Soil Research 26(2): 209-227 (2024)
+https://doi.org/10.47815/apsr.2024.10353
+Potential biocontrol agents involved in induction of defense related enzymes in brinjal
+(solanum melongena l.) Against phomopsis blight caused by phomopsis vexans
+ROHINI M., 1NAVEEN J., 2PUSHPALATHA H.G., 3*HITHAMANI G., 4HARIPRASAD P., AND
+5NIRANJANA S.R.1
+1Department of Biotechnology, University of Mysore, Mysore-570 006, Karnataka, India
+Received, March, 2024; Revised accepted, May, 2024
+ABSTRACT
+Phomopsis blight, caused by Phomopsis vexans (P. vexans) in brinjal plants is one of the main
+diseases in India. In order to manage this malady, we initially screened seed samples of 14 cultivars obtained
+from seed suppliers for the disease incidence. Based on the disease incidence and severity, the samples were
+categorized as resistant and susceptible cultivars of brinjal. It was established that MEBH-9' was a sensitive
+cultivar, while the Kolar local was resistant to the disease. Two ideal strains of Rhizosphere colonizing bacteria
+(RCB), Pseudomonas putida strain Has-1/c (HM229805), and Phylloplane Colonizing Bacteria (PCB), Bacillus
+subtilis strain Br/ph-33 (KJ867501), previously characterized as potential plant growth-promoting rhizobacteria,
+were tested for their potential biocontrol of this disease. Both susceptible and resistant cultivars' seedlings were
+treated with different combinations of PCB and RCB, PCB alone, RCB alone, and challenge inoculated with P.
+vexans. In order to ascertain whether there was signalling between defense enzyme activation and plant
+protection after PCB and RCB treatment, defense enzymes were quantified. Brinjal plants treated with
+PCB+RCB combination and challenge inoculated with P. vexans showed a significant increase in the activity
+of Phenylalanine ammonia-lyase (PAL), Peroxidase (POX), Lipoxygenase (LOX), Polyphenol oxidase (PPO),
+Catalase, Chitinase, β -1,3-glucanase, and Hydrogen peroxide (H O ) content. The current study reveals that
+2 2
+the defense enzymes and PR-proteins are gradually induced and accumulated, which enhance the resistance
+in brinjal plants against P. vexans-causing fruit rot disease.
+Keywords: Brinjal (Solanum melongena L.), Bio-control agents, Defense-related enzymes, Enzyme
+induction, Phomopsis vexans
+INTRODUCTION infestations interfering with physiological and
+Vegetables are essential for human metabolic processes in the plants. Pathogens
+nutrition, providing a variety of nutrients and disrupt the normal physiological and metabolic
+reduce the risk of long-term health issues. functions as well as defense mechanisms in
+Solanaceous vegetables, such as tomatoes, egg plants, leading to decreased yield and
+plants, and chili peppers are protective foods compromised quality. Eggplant is susceptible to
+since they are rich in phytonutrients, dietary various diseases, and one of the main issues
+fibers, minerals, and major vitamins. Eggplant is affecting the growth and yield of brinjal
+nutritious, rich in Vitamins A and B, economical, production is Phomopsis blight, which is caused
+and has health benefits like supporting heart by Phomopsis vexans (P. vexans) having
+health, aiding digestion, preventing cancer, widespread occurrence (Bhanushree et al.,
+promoting bone health, preventing anemia, and 2022). This fungal disease has a major negative
+improving brain function. Wild Solanum species influence on eggplant production, leading to
+are being used in the pharmaceutical sector lower-quality, considerably fewer fruits, which
+(Quamruzzaman et al., 2020). Eggplant, also leads to a huge economic impact. At present, P.
+known as brinjal, is one of the five most vexans is widely distributed in all major brinjal
+significant vegetables worldwide; the estimated growing regions of the world. It causes damping-
+total world production of eggplants worldwide in off of seedlings in nursery, leaf blight; fruit rot
+2022 was 103,680,000 mt. China accounted for and stem blight at various stages of plant growth
+approximately 64.58 % of the world's production, and development. P. vexans is both soil and
+with India producing 12,800,000, t., making it the seed-borne, persists on the seed surface and
+second largest producer (FAO, 2022). Plants inside the seed, and is spread by rain splash
+lose quality and yield as a result of pathogen (Mahadevakumar and Janardhana, 2015).
+Corresponding author: pushpanarayana2012@gmail.com 2 Department of Biochemistry, CFTRI, Mysore-570 006,
+Karnataka, India, 3 Department of Botany, Government College for Women (Autonomous), Mandya-571401, Karnataka,
+India, 4 Fruit and Vegetable Technology, CFTRI, Mysore-570 006, Karnataka, India, 5 Centre for Rural Development and
+Technology, Indian Institute of Technology, Delhi, Hauz Khas, New Delhi 110016
+ROHINI M. et al. 210
+Quantification in disease prevalence across six modification of cell wall composition, production
+agro-ecological regions and its severity demands of melatonin, accumulation of carotenoids, and
+accurate disease prediction and development of altered activity of polyamines, therefore, disease
+better management strategies (Mahadevakumar development is restricted by the changing
+and Janardhana, 2016a and b). concentration of biochemical components in host
+The management of fungal diseases plants (Kaur et al., 2022). Some rhizosphere
+requires an integration of multiple strategies, colonizing bacteria trigger defense mechanisms
+such as exclusion (using certified seed), by activating some defense related enzymes in
+eradication (sanitizing farm equipment), and plants, making susceptible cultivars resistant to
+protection (chemical and biological control; Nolte pathogen infection (Saeed et al., 2021). The
+et al., 2020). The increasing use of fertilizers, induced defense mechanism includes various
+pesticides, and fungicides for food production non-enzymatic components comprising phenolic
+threatens human health and the environment. compounds, flavonoids, lignins and enzymes for
+Alternative, environmentally friendly methods are phenol metabolism like phenylalanine ammonia-
+needed to control pests and diseases. Even lyase (PAL), polyphenol oxidase (PPO) and
+though a lot of plant extracts are quite effective antioxidant enzymes like Catalase (CAT),
+in controlling P. vexans, these can be modified Peroxidases (POX). Defense enzymes play a
+based on what plant material is readily available crucial role in plant defense against pathogens,
+in large quantities (Reddy et al., 2018). where oxidative enzymes like POX and PPO
+Biological management strategies have emerged catalyze the formation of lignin and other
+as potential alternatives to chemical applications oxidative phenols, which contribute to the
+for crop disease prevention. Plant growth- formation of defense barriers for reinforcing cell
+promoting rhizobacteria (PGPR) are group of structure. Enzymes like PAL are involved in
+microorganisms with stimulatory and protective phytoalexins or phenolic compound biosynthesis
+effects on plants. Biological control agents like (Senthilraja et al., 2013). Lipoxygenases (LOXs)
+Bacillus subtilis and Pseudomonas putida are catalyze the peroxidation of polyunsaturated
+essential for suppressing crop diseases and fatty acids and lipids, resulting in the production
+pests and also have a growth-promoting effect of oxylipins and biologically active compounds
+on the plant. Bacteria are ubiquitous and (Yang et al., 2012). These enzymes enhance
+colonize leaf surfaces, and studies on potential defense responses by directly inhibiting
+phylloplane colonizing bacteria (PCB) in pathogens and accumulating phytoalexins (Lin
+improving plant growth, productivity (Tyagi and and Ishii, 2009).
+Durgapal, 2019; Manju and Prabakaran, 2020) Pathogenesis-related (PR) proteins like
+and suppressing foliar phytopathogens (de chitinases (PR-3 family and β-1, 3-glucanase
+Almeida Halfeld-Vieira et al., 2015) are (PR-2 family) degrade the fungal cell wall,
+sporadically reported. causing the lysis of the fungal cell (Kauffmann et
+Plants generate reactive oxygen species al., 1987). The phenolic compounds released
+(ROS) under biotic and abiotic stresses, which during degradation act as elicitors, eliciting
+can cause oxidative damage to proteins, lipids, various defense mechanisms in plants. The
+and photosynthetic pigments, as well as induction of defense-related enzymes makes
+inactivate photosynthetic enzymes (Singla et al., plants resistant to pathogen invasion. This has
+2019). Plants have evolved complex defense been correlated with defense mechanisms
+mechanisms to protect themselves against against pathogen invasion in plants like tomato
+pathogen attacks, which can be constitutive or (Bashan et al., 1985) cucumber (Rasmussen,
+induced and fail when infected by virulent 1991) and tobacco (Binutu and Cordell, 2000). In
+pathogens (Pieterse and van Loon, 1999). Major addition to self-defense of plants, useful
+induced changes in host plants during pathogen microbes and plant growth-promoting
+infection include the induction of reactive oxygen rhizobacteria also activate the defense
+species, activation of defense mechanisms mechanism via two different pathways, systemic
+comprising of enzymatic and non-enzymatic acquired resistance (SAR) and induce
+antioxidative components, secondary systematic resistance (ISR). The ISR may be
+metabolites, pathogenesis-related protein strengthened through beneficial microorganisms,
+expression, production of phytoalexins, whereas SAR implies an altered gene
+211 Combating Phomopsis in Brinjal: Bio-Control Strategies
+expression at molecular levels and is related to and molecular characterizations to deduce the
+PR proteins (Kaur et al., 2022). Reports suggest virulent and avirulent pathogen. Among the 23
+that certain strains of PGPR can stimulate isolates of P. vexans, Pv1 (Accession No.
+defense mechanisms in plants, leading to KF994965) recorded the highest disease
+systemic disease protection, ISR (Van Loon, incidence (97 %) and severity (88.6 %) with high
+2007). This can protect even susceptible plants activities of Cellulase (CL), catalase (CAT) and
+by enhancing their own defense mechanisms ascorbate peroxidase (APX) enzymes (Rohini et
+upon different applications of PGPR. The PGPR al., 2023). Fungal inoculum for greenhouse
+has been reported to induce defense enzymes studies was prepared by growing it on PDA for
+against various diseases, such as Fusarium 14 days under near ultraviolet (NUV) radiation
+oxysporum in tomato (Ramamoorthy et (365 nm). Towards the end of the incubation
+al.,2002a), Pythium aphanidermatum in tomato period, conidial ooze from pycnidia was collected
+and hot pepper (Ramamoorthy et al., 2002b), by flooding the plate with 10 ml of sterile distilled
+Rhizoctonia solani in tomato (Solanki et water. The concentration of conidia was adjusted
+al.,2012), and Colletotrichum capsici in pepper to 1 × 108 conidia/ml using haemocytometer.
+(Ramanujam, et al., 2012). Studies on PGPR-
+mediated ISR have shown the role of defense Table 1: List of seed samples of brinjal subjected
+enzymes such as PO, PPO, PAL, β-1,3- to screening to assess their resistance and
+glucanases, and chitinases in induced systemic susceptibility to P. Vexans
+resistance (Jetiyanon, 2007). In this present
+Sl.No Cultivar
+study, we describe how brinjal cultivars are
+1 F1 Green Long
+categorized as resistant or susceptible against
+2 CVK
+bacterial blight disease caused by P. vexans,
+3 Ravaira Hybrid
+under greenhouse environments. The second
+4 MEBH-9
+goal of this research was to decipher how
+5 Chaman-363 F1 Hybrid
+different combinations of treatment with a well- 6 Pragathi
+characterized PCB, Bacillus subtilis (strain 7 SHB-211 F1 Hybrid
+Br/ph-33; KJ867501), and RCB, Pseudomonas 8 Brinjal F1 Hybrid
+putida (strain Has-1/c; HM229805), along with 9 Kolar Local Variety
+challenge inoculated with P. vexans, induce the 10 F1 Abhishek
+11 Mohini
+activity of defense-related enzymes in resistant
+12 Padma
+and susceptible cultivars.
+13 Ramya
+MATERIALS AND METHODS 14 Apsara
+Seed Samples Phylloplane Colonizing Bacteria (PCB) and
+A total of 14 different commonly growing Rhizosphere Colonizing Bacteria (RCB)
+seeds of brinjal cultivars were purchased from In our present experiment we have used
+the local seed agencies of Mysore-570 006, a PCB strain Br/Ph-33, which was previously
+Karnataka, India. Seeds were surface sterilized characterized by biochemical and molecular
+by using 1 % sodium hypochlorite (NaOCl) for 30 methods, which upon sequencing using 16s
+sec and then washed thoroughly with sterile rRNA, analysis proved the strain belongs to
+distilled water to remove surface treated Bacillus subtilis (strain Br/ph-33 (KJ867501),
+chemicals, blot dried and were grown under which showed 49.5 % inhibition against the
+greenhouse conditions (day 25° C/night 20° C pathogen. Foliar application of the isolate
+with 80 % relative humidity (RH) in an earthen showed significant difference in root and shoot
+pot (20 cm diameter) containing soil: sand: length compared to control. The disease
+farmyard manure (2:1:1) (Table 1). incidence was suppresses by 45 % and disease
+severity was recorded to be 2.24 (Rohini et al.,
+Phomopsis vexans 2016). This study has used another well
+In our previous study, a total of 23 characterized Pseudomonas putida strain Has-
+suspected P.vexans isolates from different parts 1/c (HM229805), which showed 44.4 % inhibition
+of infected brinjal leaves, fruits and seeds were against the pathogen. Sequencing also confirms
+subjected to various biochemical physiological the strain belonging to Pseudomonas putida.
+ROHINI M. et al. 212
+This strain showed plant growth promotion with PCB; (5) seedlings raised from RCB treated
+increase in root; shoot length, fresh and dry seeds and spray inoculated with PCB; (6)
+weight of brinjal seedlings. The disease seedlings raised from RCB treated seeds and
+incidence was 30.8 % and disease severity of challenge inoculated with P. vexans; (7)
+2.53 was recorded upon RCB inoculation (Rohini seedlings raised from untreated seeds, spray
+et al., 2016). inoculated with PCB and challenge inoculated
+with P. vexans and (8) seedlings raised from
+Screening of Brinjal Cultivars for Resistance/ RCB treated seeds, spray inoculated with PCB
+Susceptibility against Phomopsis vexans and challenge inoculated with P. vexans. Ten
+In order to evaluate the resistance/ pots for each treatment were maintained and
+susceptibility of different brinjal cultivars against arranged in a completely randomized block
+selected highly virulent isolate of P. vexans design in a greenhouse with three replications
+‘Pv1’, the greenhouse experiments were and the experiment was repeated three times.
+conducted by growing the healthy seedlings
+raised from surface sterilized seeds in pots (one Sample Collection for the Analysis of
+seedling/pot) containing sterilized soil: sand: Induction of Defense Mechanisms
+farm yard manure (2:1:1 @ v/v/v).Thirty-day-old Seedlings raised from each treatment
+seedlings were spray-inoculated with conidial were carefully uprooted without causing any
+suspension of P. vexans (1× 108 conidia ml–1) till damage to root tissues at different time intervals
+runoff. Development of leaf blight disease was viz., 0, 6, 12, 24, 36, 48, 72, 96, 120 and 144 h
+regularly monitored based on development of after challenge inoculation with P. vexans. Six
+leaf blight symptoms. After 15 days post plants were randomly sampled from the different
+inoculation, the disease severity was assessed treatment separately for each biochemical
+by using 0–9 scale (Mayee and Datar, 1986). analysis and were maintained separately. The
+The experiment was laid out in Randomized seedlings were washed in running tap water and
+Complete Block Design (RCBD) manner with homogenized with liquid nitrogen in a pre-chilled
+three replications and repeated three times. The pestle and mortar in sodium borate buffer for
+Phomopsis leaf blight disease incidence and PAL, sodium phosphate buffer for PO and PPO,
+severity was calculated using the standard sodium citrate buffer for Chitinase and sodium
+formula (Rohini et al., 2023). acetate buffer for β-1,3 glucanase activity at 4°
+C. The homogenized tissues were stored at −80°
+Induction of Defense Mechanisms by C and used for biochemical analysis.
+Defense-Related Enzymes
+To study the activation of defense related Phenylalanine Ammonia Lyase (PAL; EC.
+enzymes, two cultivars resistant cultivar (Kolar 4.3.1.5) Activity
+local variety) and Susceptible (‘MEBH–9’) were PAL activity was assayed by following
+selected. The temporal pattern study of these the method of Lisker et al. (1983). One gram of
+enzymes was carried out using the susceptible brinjal seedlings was homogenized in 3 ml of ice
+seedlings. Fifteen-days-old seedlings were cold 0.1 M sodium borate buffer (pH 7.0)
+challenge inoculated with the conidial containing 1.4 mM of 2-mercaptoethanol and 0.1
+suspension of P. vexans as described above. g of insoluble polyvinylpyrrolidone (PVP). The
+The PCB isolate Br/ph-11 and RCB isolate Has- resulting extract was filtered through cheese
+1/c effective bacteria was used to assess their cloth and the filtrate was centrifuged at 10000
+efficiency to induce defense mechanisms by rpm for 15 min at 4° C. The supernatant was
+defense-related enzymes in brinjal seedlings used as the enzyme source. The PAL activity
+against P. vexans under greenhouse conditions. was determined spectrophotometrically as
+The following treatments were included in measurement of rate of conversion of L-
+the greenhouse experiment: (1) seedlings phenylalanine to trans-cinnamic acid at 290 nm.
+raised from untreated seeds; (2) seedlings The reaction mixture contained 1m of enzyme
+raised from untreated seeds and challenge extract incubated with 0.5 ml of 0.1 M borate
+inoculated with P. vexans; (3) seedlings raised buffer (pH 8.8) and 0.5 ml of 50 mM L-
+from RCB treated seeds; (4) seedlings raised phenylalanine in the same buffer for 30 min at
+from untreated seeds and spray inoculated with 30° C. The amount of trans-cinnamic acid
+213 Combating Phomopsis in Brinjal: Bio-Control Strategies
+produced was calculated using its extinction expressed as a change in the absorbance at 234
+coefficient of 9630 M−1 cm−1. The enzyme activity nm min−1 mg−1 of protein.
+was expressed as nmol trans-cinnamic acid
+min−1 mg−1 of protein. Catalase (CAT; EC 1.11.1.6) Activity
+CAT activity was determined as
+Peroxidase (POX; EC. 1.11.1.7) Activity described by Chance and Meahly (1955). One
+POX activity was assayed as described gram of brinjal seedlings was homogenized in 1
+by Hammerschmidt et al. (1982). One gram of ml of 50 mM phosphate buffer (pH 7.0) at 4° C.
+brinjal seedlings was homogenized in 2 ml of 0.1 The homogenate was centrifuged at 10000 rpm
+M sodium phosphate buffer (pH 7.0) at 4° C. The for 20 min at 4° C. The supernatant served as
+homogenate was centrifuged at 10000 rpm for the enzyme source. The reaction mixture
+15 min at 4° C. The supernatant was used as the contained 50 mM phosphate buffer (pH 7.0) and
+enzyme source. The reaction mixture consisted 15 mM H O and 50 μl of the enzyme extract.
+2 2
+of 1.5 ml of 0.05 M pyrogallol, 0.5 ml of enzyme The enzyme activity was determined
+extract and 0.5 ml of 1 % H O . The reaction spectrophotometrically by decrease in
+2 2
+mixture was incubated at room temperature (28 absorbance at 240 nm for 1 min following the
+± 2° C). The changes in absorbance at 420 nm decomposition of H O . The activity was
+2 2
+were recorded at 30 sec intervals for 3 min. The expressed as a change in the absorbance at 240
+boiled enzyme preparation served as the blank nm min−1 mg−1 of protein.
+and the enzyme activity was expressed as
+changes in the absorbance at 420 nm/min−1 Chitinase (EC 3.2.1.14) Activity
+mg−1 of protein. Chitinase activity was carried out as per
+the method described by Boller and Mauch
+Polyphenol Oxidase (PPO; EC. 1.14.18.1) (1988) by using colloidal chitin as substrate.
+Activity Colloidal chitin was prepared according to
+PPO activity was determined as Berger and Reynold (1958) from crab shell chitin
+described by Mayer et al. (1965). One gram of (Sigma, USA). One gram of brinjal seedlings
+brinjal seedlings was homogenized in 2 ml of 0.1 was extracted with 2 ml of 0.1 M sodium citrate
+M sodium phosphate buffer (pH 7.0) at 4° C. The buffer (pH 5.0) at 4° C. The homogenate was
+homogenate was centrifuged at 10000 rpm for centrifuged at 10000 rpm for 15 min at 4° C and
+15 min at 4° C. The supernatant was used as the the clear supernatant was used as the enzyme
+enzyme source. The reaction mixture consisted source. The reaction mixture consisted of 10 μl
+of 1.5 ml of 0.1 M sodium phosphate buffer (pH of 0.1 M sodium acetate buffer (pH 4.0), 0.4 ml
+6.5) and 200 μl of the enzyme extract. To start of enzyme extract and 0.1 ml of colloidal chitin
+the reaction, 200 μl of 0.01 M catechol was (10 mg). After 2 h incubation at 37° C, the
+added and the enzyme activity was expressed reaction was stopped by centrifugation at 8000 g
+as changes in absorbance at 495 nm min−1 mg−1 for 3 min. An aliquot of the supernatant (0.3 ml)
+of protein. was pipetted into a glass reagent tube containing
+30 μl of 1 M potassium phosphate buffer (pH
+Lipoxygenase (LOX; EC. 1.13.11) Activity 7.0) and incubated with 20 μl of 3 per cent (w/v)
+LOX activity was determined as desalted snail gut enzyme (Helicase) for 1 h.
+described by Borthakur et al. (1987). One gram After 1 h, the reaction mixture was brought to pH
+of brinjal seedlings was homogenized in 1 ml of 8.9 by the addition of 70 μl 0.1 M sodium borate
+200 mM sodium phosphate buffer (pH 6.5) at 4° buffer (pH 9.8). The mixture was incubated in a
+C. The homogenate was centrifuged at 12,000 boiling water bath for 3 min and then rapidly
+rpm for 20 min at 4° C. The supernatant served cooled in an ice-water bath. Finally, the mixture
+as the enzyme source. The activity was was incubated with 2 ml of dimethyl amino
+determined spectrophotometrically by monitoring benzaldehyde (DMAB) for 20 min at 37° C.
+the appearance of conjugated diene Immediately thereafter, the absorbance was
+hydroperoxide, absorbing at 234 nm. The measured at 585 nm. N-acetylglucosamine
+reaction mixture contained 2.7 ml of 0.2 M (GlcNAc) was used as a standard. The enzyme
+sodium phosphate buffer (pH 6.5), 0.3 ml of 10 activity was expressed as nmoles GlcNAc min−1
+mM linoleic acid in Tween-20 and 50 ml of the mg−1 of protein.
+enzyme extract. The enzyme activity was
+ROHINI M. et al. 214
+β-1,3-glucanase (EC 3.2.1.6) Activity After 8 h treatment, the leaves were decolorized
+β-1, 3-glucanase activity was assayed by by incubation in 1.5 g l–1 TCA in 3:1 (v/v) mixture
+the laminarin-dinitrosalicylic acid method (Pan et of ethanol + chloroform for 48 h with at least
+al., 1991). One gram of brinjal seedlings was three changes of the bleaching solution and
+extracted with 2 ml of 0.05 M sodium acetate examined by light microscopy. To detect papilla
+buffer (pH 5.0) at 4° C. The homogenate was (callose) formation, the leaf pieces were soaked
+centrifuged at 10000 rpm for 20 min at 4° C. The with phosphate buffer (0.1 M KH PO / K HPO ,
+2 4 2 4
+clear supernatant was used as the enzyme pH 9) for 24 h, and the leaf pieces with infection
+source. The reaction mixture consisted of 62.5 μl sites were placed on glass slides in phosphate
+of 4 % laminarin (Sigma, USA) and 62.5 μl of the buffer (Barreto et al., 2007).
+enzyme extract. The reaction was carried out at Subsequently, the samples were stained
+40° C for 10 min and stopped by adding 375 μl with 0.1 g l–1 buffered solution of aniline blue for
+of dinitrosalicylic acid and heated for 5 min on 2 h (Borden and Higgins, 2002). The leaf pieces
+boiling water, vortexed and its absorbance was were mounted on a glass slide, cleared by drop
+measured at 500 nm. The enzyme activity was washing with concentrated HCl and covered with
+expressed as μg glucose released min−1 mg−1 of a glass cover slip in glycerol (Mlícková et al.,
+protein. 2004). The experiments were repeated three
+times with three replications.
+Hydrogen Peroxide (H O ) Content
+2 2
+The quantitative production of H O was STATISTICAL ANALYSIS
+2 2
+determined according to the method of Patterson The laboratory and greenhouse
+et al. (1984) with slight modifications as experimental data were statistically analyzed
+previously described by Aroca et al. (2003). Five separately and subjected to arcsine
+hundred milligram of brinjal leaf sample was transformation and analysis of variance
+homogenized in a cold mortar with 5 ml (5 %; (ANOVA) using SPSS, ver. 17 (SPSS Inc.,
+w/v) TCA containing 0.1 g of activated charcoal Chicago, IL). The significant differences between
+and 1 % (w/v) polyvinylpolypyrrolidone (PVPP). the treatment means were compared using
+The homogenate was centrifuged at 10000 rpm Highest Significant Difference (HSD) as obtained
+for 10 min. The supernatant was filtered used as by Tukey’s test at p ≤ 0.05 level.
+the enzyme source. The reaction mixture
+consisted of 1.2 ml of 100 mM potassium RESULTS AND DISCUSSION
+phosphate buffer (pH 8.4) and 0.6 ml of the
+colorimetric reagent and 130 µl of the enzyme Evaluation of Resistance/ Susceptibility of
+extract. The colorimetric reagent was freshly Brinjal Cultivars against Phomopsis vexans
+prepared by mixing 0.6 mM potassium titanium In the present study, a total of 14
+oxalate and 0.6 mM 4-2 (2-pyridy-lazo) different brinjal cultivars were screened against a
+resorcinol (disodium salt) 1:1 (v/v). The samples highly virulent P. vexans strain Pv1 for their
+were incubated at 45° C for 1 h and the resistance/ susceptibility. Among 14 cultivars
+absorbance was recorded at 508 nm. The blanks screened, the cultivar ‘Kolar local variety’ was
+were made by replacing leaf extract by 5 % TCA. found more resistant to P. vexans infection
+The accumulation of H O was expressed as which recorded the disease incidence and
+2 2
+nmol H O min−1 mg−1 of protein. severity of 30.6 and 47.0 %, respectively. The
+2 2
+The H O accumulation in the brinjal cultivar ‘MEBH–9’ showed significantly (p ≤ 0.05)
+2 2
+leaves collected from the plants inoculated with highest disease incidence and severity of 99.0
+combination application of PCB and RCB was and 97.0 %, respectively. This susceptible
+visualized using light microscopy. Briefly, the cultivar (MEBH–9) was used for further studies
+leaves collected at different time intervals after (Fig. 1). Our findings align with those of Islam
+inoculation with P. vexans were immersed in a and Meah (2011), who conducted screenings of
+solution containing 1.0 mg DAB (3´-3´- brinjal seeds across various regions of
+diaminobenzidine) ml–1. The DAB was freshly Bangladesh to determine the prevalence of P.
+dissolved in Milli-Q grade water adjusted initially vexans. They documented the highest disease
+to pH 3.0 with 1 N HCl and heated to 50° C and incidence at 7.5%.
+followed by the addition of 1 N NaOH (pH 4.0).
+215 Combating Phomopsis in Brinjal: Bio-Control Strategies
+120
+Disease Incidence
+t 100
+h
+g
+ilb 80
+f
+a
+e 60
+l
+s is
+e
+s a 40
+pe
+o m s id
+20
+o
+h
+P 0
+f
+o
+%
+Brinjal Cultivars
+Fig. 1: Evaluation of Resistance/Susceptibility of different brinjal cultivars against Phomopsis vexans. The date
+expressed is the mean of three separate experiments with three replicates
+In Karnataka, Mahadevakumar and defense enzyme mechanisms. Singh and Jha
+Janardhan (2015) reported a wide range of (2016) concluded that PGPR strains alone or in
+Phomopsis blight from 7.7 to 30.5 % with fruit rot combination can provide effective, economical,
+ranging from 21.0 to 64.6 %. Jayaramaiah et al., and practical plant protection against multiple
+(2013) reported that P. vexans caused leaf blight pathogens, high-lighting the potential of PGPR in
+to the extent of 5 to 23 % and fruit rot to the promoting plant health. Researchers have
+extent of 30 to 60%. Mahadevakumar et al., recognized the antagonistic activities of Bacillus
+(2017) reported leaf blight incidence (8 to 25 %) and Pseudomonas, with several Bacillus species
+and fruit rot incidence (15 to 62 %) caused by P. causing ISR and protecting plants from pathogen
+vexans. However the leaf incidence was attacks (Kashyap et al., 2021). Some of the
+relatively low varying from 8.81 to 23.85 % Pseudomonas putida strains exhibit outstanding
+among 25 varieties of brinjal screened. Recently traits like phytohormone synthesis, nutrient
+Prasad et al. (2022) reported a disease severity solubilization, adaptation to stress, and excellent
+of brinjal plants against P. vexans in 32 root colonization ability among various PGPR
+genotypes which varied from 0 to 13.75 %. species (Garcia-Gutierrez et al., 2022). The
+present study was carried out to study various
+Induction of Defense related enzymes defense related enzymes using two very well
+Mild and virulent strains of bacteria, such characterized PCB (strain Br/Ph-33) and RCB
+as Pseudomonas, Bacillus, Trichoderma and (Has-1/c (HM229805) used in combination for
+Aspergillus can mediate, impart and induce treatment of Brinjal plants infected with
+resistance in a plant system. This method has P.vexans. In order to follow the temporal pattern
+also been shown to be environmentally benign, for the defense related gene like PAL, POX,
+economical, and beneficial to both the plant and PPO, LOX, Catalase, Chitinase, β-1,3-glucanase
+the soil and water bodies (Ahamed et al., 2022). and H O the seedlings of the susceptible brinjal
+2 2,
+Biological control agents like Bacillus subtilis are cultivar MEBH–9’ was selected to treat with
+essential for suppressing crop diseases and different combinations of PCB and RCB were
+pests. Pseudomonas is considered one of the challenge inoculated with P. vexans. The
+most promising groups as potential biofertilizers different formulation of B. subtilis (strain Br/ph-33
+due to their numerous plant growth-promoting and P. putida strain Has-1/c (PCB+RCB) strains
+traits with P. putida being one of the best studied varied in their efficacy on defense enzyme
+Pseudomonas PGPR strains (Costa-Gutierrez et activity in Brinjal plants inoculated with P.vexans.
+al., 2020a; 2020b). Plant growth-promoting
+rhizobacteria can induce systemic resistance to PAL: The plants were induced to synthesize
+various plant diseases. Combining bio-control PAL in the brinjal seedlings raised from seeds
+agents can provide better disease protection treated with PCB isolate Br/ph-11 and RCB
+than individual treatments due to different isolate Has-1/c alone or in combination.
+ROHINI M. et al. 216
+900 Has-1/c
+Has-1/c+P.v
+800 Br/ph-11
+1
+Br/ph-11+P.v
+− n700
+im
+d
+600
+icn
+a
+c
+5ie
+t
+00
+im4 o
+r00
+ap
+n f
+n3o00
+s n
+ic
+- 2
+1
+− g m 00
+a
+r t100
+lo
+m 0
+n
+0 6 12 24 36 48 72 96 120 144
+Time after pathogen ioculation (h)
+Fig. 2A: Temporal pattern of PAL activity in brinjal seedlings treated with PCB and RCB alone or in combination
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate
+experiments with three replicates each. All treatments are significantly different from each other at P≤ 0.05
+However, compared to control, there was an inoculated with P. vexans, the enzyme activity
+additional increase in synthesis in the PCB and increased from 120 nmol trans-cinnamic acid
+RCB alone or in combination pretreated plants min−1 mg−1 and 150 nmol trans-cinnamic acid
+challenge inoculated with P. vexans. The min−1 mg−1 of protein respectively to 730 nmol
+enzymes' temporal pattern analysis revealed that trans-cinnamic acid min−1 mg−1 of protein. A
+the enzyme activity peaked 24 hours after the comparable pattern was seen in the resistant
+pathogen was inoculated, and that it thereafter cultivar (Kolar local variety), where seedlings
+steadily decreased over the course of the trial treated with PCB+RCB after pathogen
+(Fig. 2A).To study the induction pattern of this inoculation displayed an enzyme activity of 880
+enzyme, after 24 hours post-infection, seedlings nmol trans-cinnamic acid min−1 mg−1 of protein,
+of resistant and susceptible cultivars were in contrast to seedlings treated with P. vexans
+analyzed. In the susceptible cultivar, when and its control (118 and 740 nmol trans-cinnamic
+seedlings treated with PCB+RCB and challenge acid min−1 mg−1 of protein, respectively (Fig. 2B).
+1200
+1 − 1000
+Br/ph-33 +Has-1/c + P.v P.v Control
+n
+im
+d
+ic
+a
+n
+ie
+800
+c im to r
+p
+600
+a n fo
+n ic 1 − 400
+s n
+-g
+m
+a r 200
+t
+lo
+m
+0
+n
+Resistant Cultivar Brinjal Cultivars Susceptible Cultivar
+Fig. 2B: Induction of PAL in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 12hpi,
+followed by P. vexans challenge inoculation. The data are expressed as the mean of three separate
+experiments with three replicates each. All treatments are significantly different from each other at P≤ 0.05
+POX: In the seedlings grown to study the vexans compared to the control, and the activity
+temporal pattern of the POX enzyme, the then gradually decreased (Fig. 3A). Following P.
+combination treatment caused maximum activity vexans inoculation, POX activity considerably
+of the enzyme 12 hours after inoculation with P. increased in the PCB+RCB treated brinjal plants
+217 Combating Phomopsis in Brinjal: Bio-Control Strategies
+9 Has-1/c Has-1/c+P.v
+tan. 8 Br/ph-11 Br/ph-11+P.v
+e c
+n a b
+r
+o s b1−
+ie to
+r p
+fo
+5
+6
+7 Br/ph-11 + Has-1/c Br/ph-11 + Has-1/c +P.v
+a
+e
+g m 4
+h t
+n
+1−
+n
+3
+i s im 2
+em
+g
+nn 1
+a 0
+h c 2 4 0
+0 6 12 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 3A: Temporal pattern of POX activity in brinjal seedlings treated with PCB and RCB alone or in combination against P.
+vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with three
+replicates each. All treatments are significantly different from each other at P≤ 0.05
+compared to the untreated inoculated and non- protein in PCB+RCB treated seedlings. When
+inoculated control, indicating further research compared to untreated and non-inoculated
+into the induction pattern of this enzyme in seedlings, of both resistant and susceptible
+resistant and susceptible cultivars. In resistant cultivar, which displayed 3.8 and 3.6 nmmin−1
+cultivar, the non-inoculated control, the activity mg−1 of protein, respectively, POX demonstrated
+increased to 7.93 nmmin−1 mg−1 of protein upon a higher level of activity (7.85 nm min−1 mg−1 of
+P. vexans inoculation. However, the enzyme's protein) in seedlings with PCB+RCB combination
+maximum activity was 9.85 nmmin−1 mg−1 of in the susceptible cultivar (Fig. 3B).
+12
+t
+a
+e c f o 10 Br/ph_Has-1/c+P.v P.v Control
+n
+a 1
+b r − g 8
+o
+s
+b a
+m
+1 −
+.n
+ie 6
+ent
+o
+h
+t
+imr
+p
+nm 4
+i s
+e g n
+n
+0 2 4 2
+a
+h
+c
+0
+Resistant Cultivar Susceptible Cultivar
+Brinjal Cultivars
+Fig. 3B: Induction of POX in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 24 hpi, followed by
+P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three replicates
+each. All treatments are significantly different from each other at P≤ 0.05
+PPO: When compared to other treatments and exhibited a greater induction of PPO. Lesser
+the control, the combination treatment containing PPO activity was seen in susceptible cultivar
+PCB and RCB showed the highest activity in the treated with P.vexans and non-inoculated
+examination of the PPO enzyme's temporal seedlings (1.02 nm min−1 mg−1 of protein and 0.8
+pattern, 24 hours after the P. vexans challenge. nm min−1 mg−1 of protein respectively). However,
+Subsequently, the activity gradually decreased PPO activity rose in the seedlings treated with
+(Fig. 4A). Compared to plants treated or PCB+RCB (5.01 nm min−1 mg−1 of protein)
+untreated at 24 hours post-harvest, plants (Fig.4B)
+treated with combinations of PCB+RCB strains
+ROHINI M. et al. 218
+6
+Has-1/c
+m
+n 5 Has-1/c+P.v
+5
+9 4 .n
+t
+a
+ie
+t4
+e c n o r p
+a f
+b
+r1
+o 3
+o−
+sg
+bm
+a
+n1 − 2
+i
+s
+e
+n
+im
+g
+n a 1
+h
+c
+0
+0 6 12 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 4A: Temporal pattern study of PPO activity in brinjal seedlings treated with PCB and RCB alone or in combination
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+10
+m 9 Br/ph-11 + Has-1/c +P.v P.v Control
+n
+5
+9 .n
+8
+4 t a ie t o 7
+e c r p 6
+n a f o
+b
+r o 1 −
+5
+s b g m 4
+a
+n i s 1 − n 3
+e g im 2
+n
+a
+h 1
+c
+0
+Resistant Cultivar Susciptible Cultivar
+Brinjal Cultivars
+Fig. 4B: Induction of PPO in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 24 hpi, followed by
+P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three replicates
+each. All treatments are significantly different from each other at P≤ 0.05
+LOX: With respect to LOX, activity was observed inoculation had higher activity in both susceptible
+12 hours after pathogen inoculation in all and resistant cultivars. In PCB+RCB treated
+treatments compared to the control, with the resistant and susceptible seedlings upon
+combination of PCB and RCB exhibiting the challenge inoculation showed LOX activity of
+highest activity (Fig. 5A). A test of LOX activity in 12.32 nm min−1 mg−1 of protein and 9 nm min−1
+response to different treatments clearly showed mg−1 of protein respectively which was higher
+that brinjal seedlings treated with PCB+RCB when compared to their respective untreated
+strains and challenge inoculation with the P. inoculated and non-treated seedlings (Fig. 5B).
+vexans pathogen at 12 hours after pathogen
+219 Combating Phomopsis in Brinjal: Bio-Control Strategies
+12
+ta
+e
+c n
+.n
+ie
+to
+r
+10 B
+B
+H
+H
+r
+r
+a
+a
+/
+/
+p
+p
+s
+s
+-
+-
+h
+h
+1
+1
+-
+-
+/
+/
+1
+1
+c
+c
+1
+1
++
++
+P
+P
+.v
+.v
+ap
+b
+r
+fo 8
+o s
+b
+1−
+g
+am 6
+e
+h
+t
+n
+i
+e g
+1−
+n
+im
+m
+4
+n a
+h
+n
+4
+2
+c3
+2
+0
+0 6 12 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 5A: Temporal pattern study of LOX activity in brinjal seedlings treated with PCB and RCB alone or in combination
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+16
+e c f o 14 Br/ph-11 + Has-1/c +P.v P.v Control
+n 1
+a− 12
+bg
+r o
+s b
+a
+e h
+m
+1
+− n
+im
+.n
+ie
+t o
+1
+6
+8
+0
+t r
+n i e
+g
+m n
+4
+p
+2
+4
+n3
+a2
+h t 0
+ca
+Resistant Cultivar Susceptible Cultivar
+Brinjal Cultivars
+Fig. 5B: Induction of LOX in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 12 hpi, followed by
+P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three replicates
+each. All treatments are significantly different from each other at P≤ 0.05
+CAT: The temporal pattern changes in catalase other treatments, the application of PCB+RCB
+activity showed a maximum induction in all the increased the expression of catalase in Brinjal
+treatments at 24 hours after pathogen seedlings. In resistant seedlings treated with
+inoculation (Fig. 6A). In both resistant and PCB+RCB and challenge inoculated with P.
+susceptible cultivars, the untreated inoculated vexans, the activity was observed to be 6.9 nm
+and non-inoculated plants had significantly min−1 mg−1 of protein compared to its control at
+reduced levels of catalase activity. Compared to 24 hours after pathogen inoculation (Fig. 6B).
+4.5 Has-1/c
+t
+a
+e c n
+a b r 1 − g
+f
+m
+o 3.
+3
+4
+5
+Has-1/c+P.v
+o s b
+a e
+1 −
+n im
+.n ie
+t o
+2.
+2
+5
+h r
+t n m p 1.5
+i
+e g n
+n
+0 4 2 1 Time after pathogen inoculation (h)
+a 0.5
+h
+c
+0
+0 6 8 12 18 24 36 48 72 96 120 144
+Fig. 6A: Temporal pattern study of CAT activity in brinjal seedlings treated with PCB and RCB alone or in combination
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+ROHINI M. et al. 220
+8
+m .n 7 Br/ph-11 + Has-1/c +P.v P.v Control
+n
+ie
+e h t
+n i
+e
+0 4 2
+t a
+e
+t
+o r p
+f o
+1
+4
+5
+6
+gc−
+nng 3
+aam
+h c b r 1 2
+o−
+s bn 1
+aim
+0
+Resistant Cultivar Brinjal CultivarsS usciptible Cultivar
+Fig. 6B: Induction of CAT in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 24 hpi, followed by
+P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three replicates
+each. All treatments are significantly different from each other at P≤ 0.05
+Chitinase: The efficacy of combination of mg−1 of protein and 5.3 nmoles GlcNAc min−1
+PCB+RCB in increase of chitinase enzyme mg−1 of protein, respectively. When challenging
+activity was seen in susceptible brinjal cultivar the resistant cultivar with P. vexans, PCB+RCB
+when compared to resistant cultivar. PCB+RCB treated seedlings showed an increase in enzyme
+treated seedlings upon challenge inoculated with activity to 12.3 nmoles GlcNAc min−1 mg−1 of
+P.vexans showed an increase in enzyme activity protein, while untreated inoculated seedlings
+at 24 hours after pathogen inoculation i.e 9.68 exhibited 10.19 and non-treated seedlings
+nmoles GlcNAc min−1 mg−1 of protein, where the showed 5.9 nmoles GlcNAc min−1 mg−1 of
+untreated inoculated and non-inoculated protein (Fig. 7A and 7B).
+seedlings showed 5.9 nmoles GlcNAc min−1
+12 Has-1/c
+1 − Has-1/c+P.v
+g m 10 Br/ph-11
+1
+−
+n
+im n
+8
+c
+ie
+t 6
+Ao
+r
+Np
+c lG f o 4
+s 2
+e
+lo
+m
+0
+n
+0 6 8 12 18 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 7A: Temporal pattern study of Chitinase activity in brinjal seedlings treated with PCB and RCB alone or in combination
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+14
+Br/ph-11 + Has-1/c +P.v P.v Control
+1
+12
+−
+n im n
+ie
+10
+c t o 8
+Ar
+N
+c lG
+p
+f o
+1 4
+6
+s e − g
+lo m 2
+m
+n 0
+Resistant Cultivar Brinjal Cultivars Susceptible Cultivar
+Fig. 7B: Induction of Chitinase in PCB+RCB combination- treated resistant and susceptible Brinjal seedlings at 24 hpi,
+followed by P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three
+replicates each. All treatments are significantly different from each other at P≤ 0.05
+221 Combating Phomopsis in Brinjal: Bio-Control Strategies
+β-1,3-glucanase : Naturally, β-1,3 glucanase susceptible cultivar. The enzyme activity in non-
+gene expression levels are relatively low, but treated resistant seedlings was 18 min−1 mg−1 of
+when a plant–pathogen interaction or elicitors protein, which upon pathogen inoculation was
+are used, high levels of β-1,3 glucanase can be 60 min−1 mg−1 of protein, but in PCB+RCB
+detected; enzyme accumulation occurs rapidly treated challenge inoculated seedlings, an
+and consequently hydrolytic activity increases highest activity of 79 min−1 mg−1 of protein was
+(Ali et al., 2021). In our temporal pattern studies observed (Fig. 8B). In the present study we
+for the β-1,3-glucanase enzyme, PCB and RCB found that the expression β-1,3-glucanase ,
+combination showed the highest level of activity chitinase and H O production was high in the
+2 2
+at 24 hours after the susceptible seedlings were seedlings treated with two PGPR and challenge
+inoculated with the pathogen (Fig. 8A). inoculated with the fungal pathogen, compared
+Pathogen-treated and non-treated susceptible to their respective controls. Our findings are
+seedlings displayed an activity of 23 min−1 mg−1 correlated with many reports which showed that
+of protein and 13 min−1 mg−1 of protein at 24 after fungal infection, β-1, 3-glucanases
+hours post-infection. In contrast, the β-1,3- expressed in coordination with chitinases as
+glucanase enzyme activity caused by PCB and cited from different crops like bean, pea, tomato,
+RCB treated susceptible seedlings was maize, tobacco, soybean, wheat, barley and
+measured to be 52 min−1 mg−1 of protein in potato (Sels et al., 2008).
+60 Has-1/c
+1 Has-1/c+P.v
+−
+n 50 Br/ph-11
+im
+d e
+n
+ie
+.
+40
+s a t o
+er
+le
+r
+p
+f
+30
+e
+s o c u 1 − g m
+o
+20
+lg
+10
+g
+μ
+0
+0 6 8 12 18 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 8A: Temporal pattern study of β-1,3-glucanase activity in brinjal seedlings treated with PCB and RCB alone or in
+combination against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate
+experiments with three replicates each. All treatments are significantly different from each other at P≤ 0.05.
+90
+1 80 Br/ph-11 + Has-1/c +P.v P.v Control
+−
+n
+im
+.n
+70
+die
+60
+et
+so
+a e r p 50
+le
+f
+r
+e
+o
+1
+40
+s−
+o c u g m 30
+lg 20
+g
+μ 10
+0
+Resistant CultivBarr injal Cultivars Susceptible Cultivar
+Fig. 8B: Induction of β-1,3-glucanase in PCB+RCB combination-treated resistant and susceptible Brinjal seedlings at 24
+hpi, followed by P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+H O : To overcome pathogen infection, plants versatile reactive oxygen species, to activate
+2 2
+deploy a highly efficient innate immune system, downstream defense responses. Increased
+which often uses hydrogen peroxide (H O ), a catalase activity is thought to be an adaptive
+2 2
+ROHINI M. et al. 222
+characteristic that could aid in overcoming tissue accumulation of 0.20 nmol H O min−1 mg−1 of
+2 2
+metabolic damage by lowering harmful levels of protein in seedlings treated with PCB +RCB
+H O In addition, H O is a critical component of where its non-treated seedlings showed 0.1
+2 2 2 2
+stress response regulation in crop plants such as nmol H O min−1 mg−1 of protein. The H O
+2 2 2 2
+rice (Sohag et al., 2020), wheat (Habib et al., accumulation was 0.19 nmol H O min−1 mg−1 of
+2 2
+2020), maize (Terzi et al., 2014), soybean (Guler protein in seedlings of untreated inoculated. The
+et al., 2016), cucumber (Sun et al., 2016). It’s change in the accumulation pattern was
+known that upon contact with PGPR, plant significant in the susceptible seedlings treated
+H O levels often increase and with PCB+RCB which were 0.15 nmol H O
+2 2 2 2
+H O accumulation can be primed for enhanced min−1 mg−1 of protein when compared to its non-
+2 2
+resistance against pathogens. Studies on the inoculated control which showed 0.1 nmol H O
+2 2
+trend of H O accumulation patterns in min−1 mg−1 of protein (Fig. 9B). With these
+2 2
+susceptible cultivar at various time intervals with previous reports, our findings on H O
+2 2
+varying combinations of treatments revealed that accumulation increasing pattern in susceptible
+it peaked at 24 hours post-inoculation stage(Fig. seedlings when treated with combination of two
+9A). The resistant cultivar showed an PGPR strains are correlated.
+0.16
+Has-1/c
+Has-1/c+P.v
+0.14 Br/ph-11
+f
+Br/ph-11+P.v
+o
+1
+0.12
+−
+g
+m 0.1
+1 − n im n ie
+t
+. 0.08
+2
+o
+r 0.06
+Op
+2
+H
+0.04
+lo
+m
+0.02
+n
+0
+0 6 8 12 18 24 36 48 72 96 120 144
+Time after pathogen inoculation (h)
+Fig. 9A: Temporal pattern study of H O activity in brinjal seedlings treated with PCB and RCB alone or in combination
+2 2
+against P. vexans under greenhouse conditions. The data are expressed as the mean of three separate experiments with
+three replicates each. All treatments are significantly different from each other at P≤ 0.05
+0.25
+Br/ph-11 + Has-1/c +P.v P.v Control
+f
+o
+1 0.2
+−
+g
+m
+1 − .n 0.15
+nie
+imt
+o
+O 2 r p 0.1
+2
+H
+lo 0.05
+m
+n
+0
+Resistant Cultivar Brinjal Cultivars Susceptible Cultivar
+Fig. 9B: Induction of H O in PCB+RCB combination-treated resistant and susceptible brinjal seedlings at 24 hpi, followed
+2 2
+by P. vexans challenge inoculation. The data are expressed as the mean of three separate experiments with three
+replicates each. All treatments are significantly different from each other at P≤ 0.05
+Our results are consistent with the work approach in controlling plant diseases that can
+of other researchers who have established that effectively shield a plant from the respective
+integrated plant resistance (ISR) is a viable diseases. In our investigation, we discovered
+223 Combating Phomopsis in Brinjal: Bio-Control Strategies
+that combination treatment of P. putida strain increased the activity of antioxidant enzymes in
+Has-1/c and B. subtilis strain Br/ph-33) rice shoots and roots by about a 2- to 5-fold.
+demonstrated the effectiveness of generating Kashyap et al., (2021), found that treatment of
+distinct defense-related enzymes in resistant chili plants with Bacillus subtilis KA9 and
+(kolar local variety) and susceptible (MEBH-9) Pseudomonas fluorescens PDS1 resulted in
+seedlings. The enzyme activities of PAL, POX, increased defense enzyme activities like PAL,
+PPO, LOX, Chitinase, β-1,3 glucanases, and POX, PPO and resulted in the induction of
+H O were examined temporally in susceptible resistance in chili against Ralstonia
+2 2
+seedlings. The results indicated that the solanacearum. Similarly, the interaction between
+seedlings treated with P. putida strain Has-1/c pathogens and host plants causes some
+and B. subtilis strain Br/ph-33, challenge changes in the activity of certain enzymes,
+inoculated with P. vexans, had varying times for including phenylalanine ammonia lyase,
+these enzyme activities compared to their peroxidase, polyphenol oxidase, lipoxygenase,
+untreated inoculates and non-inoculated superoxide dismutase, and β-1,3-glucanase
+seedlings. we observed that PAL, PPO, (Manzar et al., 2021a,b). Sentilraja et al. (2013)
+Chitinase, β-1,3 glucanases, and H O recorded the assay of various defense related
+2 2
+accumulation increased at 24 hours after enzyme activity from different combination
+pathogen inoculation, but POX and LOX activity treatments of PGPR (B. bassiana and P.
+peaked at 12 hours after pathogen inoculation. fluorescens strains (Pf1 and TDK1) and
+Our results also correlate with previous Beauveria bassiana (B2) which clearly showed
+investigations which revealed that different higher activity in groundnut plants challenge
+PGPR strains protect the plants from various inoculated with leaf miner larvae or collar rot
+pathogens by activating plant defense genes pathogen. Similar results were observed in
+encoding chitinase, β-1,3 glucanase, PAL, CAT, majority of the cases like, in rice shoot lysates,
+APX, POX and other enzymes, many of which rhizobacterial treatment increased the activity of
+act as primary ROS scavengers (Singh et al., the PAL enzyme (Bhattacharyya et al., 2020).
+2020). In our findings, we established that in Van Loon (1997) reported that the Chitinases
+susceptible seedlings treated with combination and β-1,3 glucanases have been associated with
+of two different PGPR’s and challenge plant resistance against fungal pathogens.
+inoculated with the pathogen P.vexans, showed Similar results have also been observed in case
+an increase in the level of defense related of PR proteins such as chitinases and β-1,3-
+enzymes when compared to their controls and glucanase. The increased enzyme activity
+also when compared to the resistant seedlings observed in the PCB and RCB treated seedlings
+with the same treatment. Ghazy and Nahrawy facilitated efficient detoxification of H O
+2 2
+(2021), revealed similar finding where generated following P. vexans inoculation,
+antioxidant enzyme activity (CAT, POX and highlighting their potential in combating
+PPO) significantly improved in plants exposed to pathogen-induced stress in plants.
+inoculation treatments with B. subtilis and P.
+koreensis either alone or in combination, which ACKNOWLEDGMENT
+in turn reflected in the reduced disease The authors are grateful to Department of
+incidence of Cephalosporium maydis in maize Studies in Biotechnology, University of Mysore
+plant. Our results are in consonance with the for providing the facilities to conduct the
+other findings where plants inoculated with P. experiments.
+oryzae in the absence of bio-control agents
+exhibited reduced PO, SOD, PPO, and PAL FUNDING
+activity, demonstrating the connection between Author ROHINI, M. acknowledges the
+oxidative damage and the ROS scavenging University Grant Commission, Govt. of India, for
+system. However, in response to P. oryzae awarding Rajiv Gandhi National Fellowship
+infection, the antagonistic Bacillus sp. markedly (Award No. DV5/381(7) RGNFS/2010-11).
+REFERENCES
+Ahmed, S., Sharma, S., Kumar, A., Sharma, A. Phomopsis vexans Causing Phomopsis
+and Rana, T. (2022) The Perspectives Blight: A Review. Biopesticides
+of Induced Resistance in Brinjal against International. 18: 9–21.

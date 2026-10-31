@@ -1,0 +1,335 @@
+International Journal of Agriculture and Food Science 2025; 7(11): 387-390
+ISSN Print: 2664-844X
+Management of Phomopsis blight of brinjal with
+ISSN Online: 2664-8458
+NAAS Rating (2025): 4.97
+various fungicides under field condition
+IJAFS 2025; 7(11): 387-390
+www.agriculturaljournals.com
+Received: 20-09-2025
+Accepted: 23-10-2025 Rushikesh Ravindra Nimse, Ravindrakumar Ashokrao Chavan, Shaikh
+Rushikesh Ravindra Nimse Abdul Kalam Shaikh Abdul Sami, Gunke Mohammad Sohel
+Department of Plant Pathology, Mohammad Sharif, Kondu Soumya, Ashish Ashruba Devkar and
+College of Agriculture, Latur,
+Vasantrao Naik Marathwada Subodh Umesh Gaikawad
+Krishi Vidyapeeth, Parbhani,
+Maharashtra, India
+DOI: https://www.doi.org/10.33545/2664844X.2025.v7.i11e.982
+Dr. Ravindrakumar Ashokrao
+Chavan
+Associate Professor, Department of Abstract
+Plant Pathology, College of In vivo efficacy of fungicides were assessed against Phomopsis vexans causing Phomopsis blight of
+Agriculture, Ambajogai, Vasantrao brinjal. The tested fungicides were Carbendazim 50 % WP, Propiconazole 25 % EC, Hexaconazole 5 %
+Naik Marathwada Krishi
+EC, Mancozeb 75 % WP, Propineb 70 % WP, Carbendazim 12 % + Mancozeb 63% WP, Carboxin
+Vidyapeeth, Parbhani,
+37.5% + Thiram 37.5% WP and Pyraclostrobin 13.3% + Epoxiconazole 5 % SE. Field trials were
+Maharashtra, India
+conducted during Kharif 2024 in the experimental field of Department of Plant Pathology, College of
+Shaikh Abdul Kalam Shaikh Abdul Agriculture, Latur using Pusa Purple Round variety of brinjal. The trial was laid out in Randomized
+Sami Block Design with three replications. After the third spray Seedling dip with Carboxin 37.5% + Thiram
+Department of Plant Pathology,
+37.5% WP and Spray Carbendazim 50% WP showed least disease severity of 16.27 % and showed
+College of Agriculture, Latur,
+Vasantrao Naik Marathwada highest disease control 63.25% respectively over the untreated control plot. The same treatment
+Krishi Vidyapeeth, Parbhani, resulted in maximum fruit yield of 28.96 t/ha registering 60.00 % increase in yield over the untreated
+Maharashtra, India control plot with ICBR of 1:25.91. The second best treatment was Seedling dip with Carboxin 37.5% +
+Thiram 37.5% WP and Spray Carbendazim 12% + Mancozeb 63% WP showed disease severity of
+Gunke Mohammad Sohel
+Mohammad Sharif 16.53 % and showed disease control 62.66 % respectively over the untreated control plot with fruit
+Department of Entomology, yield of 28.60 t/ha registering 58.01 % increase in yield over the untreated control plot with ICBR of
+College of Agriculture, Latur, 1:20.74 followed by Seedling dip with Carboxin 37.5% + Thiram 37.5% WP and Spray Hexaconazole
+Vasantrao Naik Marathwada
+5% EC showed disease severity of 16.80 % and showed disease control 62.05 % respectively over the
+Krishi Vidyapeeth, Parbhani,
+untreated control plot with fruit yield of 28.59 t/ha registering 57.96 % increase in yield over the
+Maharashtra, India
+untreated control plot with highest ICBR of 1:26.00. These treatments were at par with each other and
+Kondu Soumya significantly superior over rest of the treatments. The untreated control plot recorded maximum disease
+Department of Plant Pathology, severity of 44.27 % and lowest fruit yield 18.10 t/ha.
+College of Agriculture, Latur,
+Vasantrao Naik Marathwada
+Krishi Vidyapeeth, Parbhani, Keywords: Brinjal, Phomopsis blight, Phomopsis vexans, Fungicides, in vivo
+Maharashtra, India
+Introduction
+Ashish Ashruba Devkar
+Department of Plant Pathology, Brinjal (Solanum melongena L.), belonging to the family Solanaceae is commonly known as
+College of Agriculture, Latur, eggplant and Guinea squash, which is the native of India from where it spread to other parts
+Vasantrao Naik Marathwada
+Krishi Vidyapeeth, Parbhani, of the world (Yawalkar, 1985) [20]. It is one of the most popular and principle fruit vegetable
+Maharashtra, India crop grown in the tropical and subtropical regions of India. It is highly productive and
+usually finds a place as “Poor man’s crop” and also described as “King of Vegetables”, due
+Subodh Umesh Gaikawad
+Department of Plant Pathology, to its wide usage in Indian foods (Rajan and Markose, 2002) [14]. It is one of the most popular
+College of Agriculture, Latur, and principle fruit vegetable crop grown in the tropical and subtropical regions of India.
+Vasantrao Naik Marathwada
+Brinjal, besides being a significant vegetable, has been widely used in traditional medicine
+Krishi Vidyapeeth, Parbhani,
+Maharashtra, India for treating various ailments (Kashyap et al., 2003) [10]. It is appreciated for its medicinal
+properties, including its cholesterol-lowering effects, mainly attributed to the polyunsaturated
+fatty acids (linoleic and linolenic acids) present in the fruit’s flesh and seeds in high
+quantities. In traditional medicine, brinjal is noted for its use in treating liver diseases,
+Corresponding Author:
+allergies, rheumatism, leucorrhea and intestinal worms. Its seeds are used as stimulants,
+Rushikesh Ravindra Nimse
+Department of Plant Pathology, while its leaves have narcotic properties. Additionally, brinjal is used to alleviate toothache
+College of Agriculture, Latur, (Nadkarni, 1927) [11]. It is mainly grown in Indian states like Orissa, Bihar, Punjab, West
+Vasantrao Naik Marathwada
+Bengal, Karnataka, Maharashtra, Andhra Pradesh and Uttar Pradesh (Akhtar et al., 2007) [1],
+Krishi Vidyapeeth, Parbhani,
+Maharashtra, India
+~ 387 ~
+International Journal of Agriculture and Food Science https://www.agriculturaljournals.com
+with an area and production of 6,77,000 ha and 1,27,79,000 Method of recording observations
+MT respectively and productivity of 18.87 tons per ha Disease severity
+(Anon., 2023) [2]. Brinjal suffers from various abiotic For the purpose of measuring the severity of the disease,
+stresses like salinity, drought, low and high temperature and five plants per treatment in each replication were chosen at
+heavy-metal as well as biotic stresses including viral, random and tagged. Prior to the first spray, an initial
+bacterial, fungal, nematodes, phytoplasmal pathogens, observation was made and further observations were made 7
+parasitic plants and insect herbivores, causing enormous days after each spray. Seven days following the last spray,
+qualitative as well as quantitative losses. Major diseases the final observations were noted and Per cent Disease
+infecting brinjal are: Damping off (Pythium severity/ intensity were calculated.
+aphinidermatum, Phytophthora parasitica, Rhizoctonia Disease intensity of fruit rot was recorded by applying 0-5
+solani), Leaf spots (Cercospora melongenae, Altrenaria rating scale given by Kalda et al. (1976) [9] and presented in
+melongenae), Fruit rots (Phomopsis vexans, Pythium spp., Table below.
+Fusarium spp., Phytophthora spp., Colletotrichum spp.,
+Alternaria alternata, Aspergillus flavus), Fungal wilt Rating scale for Fruit rot
+(Fusarium oxysporum and Verticilium dahliae), Bacterial
+wilt (Pseudomonas solanacearum / Ralstonia Description Scale Reaction
+solanacearum), Collar rot (Sclerotium rolfsi), Phytoplasmas No infection 0 Immune
+and Nematodes (Singh et al., 2014) [17]. Among various 1-5 % infection 1 Resistant
+fungal diseases, Phomopsis blight is most widely occurred 5.1 -10 % infection 2 Moderately resistant
+disease caused by the fungus Phomopsis vexans (Sacc. & 10.1-25% infection 3 Tolerant
+Syd.). It affects the seedling, leaves, branches and fruits, 25. 1-50% infection 4 Susceptible
+> 50 % infection 5 Highly susceptible
+leading to significant yield and quality losses. The disease
+typically causes 15-20 % reduction in crop yield.
+Percent disease intensity (PDI)/severity were calculated as
+(Jakatimath et al., 2017) [8] Hence experiment to find out
+per formula given by Wheeler (1969) [19],
+effective fungicides against Phomopsis vexans was
+conducted under in vivo condition.
+Material and Methods / Experimental Details /
+Methodology: The field experiment was conducted during
+Kharif, 2024 on experimental farm of Department of Plant The percent disease control (PDC) were calculated by
+Pathology, College of Agriculture, Latur using Pusa Purple applying formula,
+Round variety of brinjal to evaluate the efficacy of
+fungicides against Phomopsis blight of brinjal. The trial was
+laid out in Randomized Block design with three replications.
+Sowing was done in 3mx 3.6 m plot with 75 cm by 6 cm
+spacing. Forty five days old seedlings were raised in nursery
+Yield
+and transplanted in field. The recommended dose of
+Fruits were harvested at maturity and yields of net were
+fertilizers (Recommended by Vasantrao Naik Marathwada
+recorded as kg per plot and later expressed in tons per ha.
+Krishi Vidyapeeth, Parbhani) was applied to crop with
+100:50:50 Kg NPK per hectare. Nitrogen was applied in 2
+Statistical analysis
+split doses 50% at the time of transplanting as basal dose
+The data obtained in the experiment conducted (in vivo)
+and remaining 50 % as top dressing. The tested fungicides
+were subjected to statistical analysis. The standard error
+were Carboxin 37.5% + Thiram 37.5% WP, Carbendazim
+(S.E.) and critical difference (C.D.) @ 5% level of
+50 % WP, Propiconazole 25 % EC, Hexaconazole 5 % EC,
+significance were worked out (Panse and Sukhatme, 1978)
+Mancozeb 75 % WP, Propineb 70 % WP, Carbendazim 12
+[13] and per cent data was transformed into arc sine values.
+% + Mancozeb 63% WP and Pyraclostrobin 13.3% +
+Epoxiconazole 5 % SE. For each treatment seedlings were
+Results and discussion
+dipped in Carboxin 37.5% + Thiram 37.5% WP and three
+foliar sprays of each tested fungicides were applied.
+Table 1: Effect of fungicide spraying on Phomopsis blight and yield of brinjal
+After Terminal spray Fruit yield* Increased yield over
+Tr. No. Treatments Conc. (%) ICBR
+PDI* PDC t/ha control t/ha
+16.27 63.25
+T1 Carbendazim 50 % WP 0.1 %
+(23.78)** (52.68)
+28.96 10.86 1:25.91
+22.40 49.40
+T2 Propiconazole 25 % EC 0.05 %
+(28.24) (44.65)
+26.25 08.15 1:22.36
+16.80 62.05
+T3 Hexaconazole 5 % EC 0.1 %
+(24.19) (51.97)
+28.59 10.49 1:26.00
+24.26 45.20
+T4 Mancozeb 75 % WP 0.2 %
+(29.50) (42.24)
+25.35 07.25 1:16.32
+25.07 43.37
+T5 Propineb 70 % WP 0.2 %
+(30.04) (41.19)
+24.16 06.06 1:10.98
+Carbendazim 12 % + Mancozeb 16.53 62.66
+T6
+63% WP
+0.2 %
+(23.98) (52.33)
+28.60 10.50 1:20.74
+~ 388 ~
+International Journal of Agriculture and Food Science https://www.agriculturaljournals.com
+Pyraclostrobin 13.3% + 20.27 54.21
+T7
+Epoxiconazole 5 % SE
+0.1 %
+(26.75) (47.41)
+27.16 09.06 1:14.29
+44.27
+T8 Control -
+(34.93)
+- 18.10 - -
+S.E.(m) ± - 1.03 - 0.96 - -
+C. D. at 5% - 3.09 - 2.89 - -
+From Treatments T1 to T7 Seedling Dip in Carboxin 37.5% + Thiram 37.5% WP,
+*: Mean of three replications, **: Values in parenthesis are arcsin transformed values,
+ICBR: Incremental cost: Benefit Ratio.
+The data presented in table 1 indicated that three sprays of Carbendazim 50% WP) followed by T (Seedling dip with
+6
+fungicides significantly reduced Phomopsis blight disease Carboxin 37.5% + Thiram 37.5% WP and Spray
+severity and increased the yield over control under field Carbendazim 12% + Mancozeb 63% WP) 28.60 t/ha, T
+3
+condition. After the third spray the best treatment in (Seedling dip with Carboxin 37.5% + Thiram 37.5% WP
+reducing disease severity was Treatment T (Seedling dip and Spray Hexaconazole 5% EC) 28.59 t/ha, T (Seedling
+1 7
+with Carboxin 37.5% + Thiram 37.5% WP and Spray dip with Carboxin 37.5% + Thiram 37.5% WP and Spray
+Carbendazim 50% WP) showed least disease severity of Pyraclostrobin 13.3% + Epoxiconazole 5 % SE) 27.16 t/ha,
+16.27 % followed by T (Seedling dip with Carboxin 37.5% T (Seedling dip with Carboxin 37.5% + Thiram 37.5% WP
+6 2
++ Thiram 37.5% WP and Spray Carbendazim 12% + and Spray Propiconazole 25% EC) 26.25 t/ha, T (Seedling
+4
+Mancozeb 63% WP), T (Seedling dip with Carboxin 37.5% dip with Carboxin 37.5% + Thiram 37.5% WP and Spray
+3
++ Thiram 37.5% WP and Spray Hexaconazole 5% EC), T Mancozeb 75% WP) 25.35 t/ha and T (Seedling dip with
+7 5
+(Seedling dip with Carboxin 37.5% + Thiram 37.5% WP Carboxin 37.5% + Thiram 37.5% WP and Spray Propineb
+and Spray Pyraclostrobin 13.3% + Epoxiconazole 5 % SE), 70% WP) 24.16 t/ha over the untreated control 18.10 t/ha.
+T (Seedling dip with Carboxin 37.5% + Thiram 37.5% WP Results documented in the table 1 showed that, higher
+2
+and Spray Propiconazole 25% EC),T (Seedling dip with benefits were recorded from the treatment T : Seedling dip
+4 3
+Carboxin 37.5% + Thiram 37.5% WP and Spray Mancozeb with Carboxin 37.5% + Thiram 37.5% WP and Spray
+75% WP) and T (Seedling dip with Carboxin 37.5% + Hexaconazole 5% EC and recorded highest ICBR 1:26.00.
+5
+Thiram 37.5% WP and Spray Propineb 70% WP) with The second best treatment was found to be T : Seedling dip
+1
+disease severity of 16.53 %, 16.80 %, 20.27 %, 22.40 %, with Carboxin 37.5% + Thiram 37.5% WP and Spray
+24.26% and 25.07 %, respectively over the untreated control Carbendazim 50 % WP with ICBR 1:25.91, followed by
+(44.27%). The treatments T , T and T are at par. treatments T : Seedling dip with Carboxin 37.5% + Thiram
+1 6 3 2
+The management of Phomopsis blight of brinjal showed 37.5% WP and Spray Propiconazole 25% EC (49.40%), T :
+6
+substantial disease control in which treatment T : Seedling Seedling dip with Carboxin 37.5% + Thiram 37.5% WP and
+1
+dip with Carboxin 37.5% + Thiram 37.5% WP and Spray Spray Carbendazim 12% + Mancozeb 63% WP (62.66%),
+Carbendazim 50% WP showed highest disease control T : Seedling dip with Carboxin 37.5% + Thiram 37.5% WP
+4
+(63.25%) followed by treatment T : Seedling dip with and Spray Mancozeb 75% WP (45.20%), T : Seedling dip
+6 7
+Carboxin 37.5% + Thiram 37.5% WP and Spray with Carboxin 37.5% + Thiram 37.5% WP and Spray
+Carbendazim 12% + Mancozeb 63% WP (62.66%), T : Pyraclostrobin 13.3% + Epoxiconazole 5 % SE (54.21%),
+3
+Seedling dip with Carboxin 37.5% + Thiram 37.5% WP and and T : Seedling dip with Carboxin 37.5% + Thiram 37.5%
+5
+Spray Hexaconazole 5% EC (62.05%), T : Seedling dip WP and Spray Propineb 70% WP (43.37%) which recorded
+7
+with Carboxin 37.5% + Thiram 37.5% WP and Spray ICBR as, 1:22.36, 1:20.74, 1:16.32, 1:14.29 and 1:10.98,
+Pyraclostrobin 13.3% + Epoxiconazole 5 % SE (54.21%), respectively over the untreated control. Similar results were
+T : Seedling dip with Carboxin 37.5% + Thiram 37.5% WP reported by Beura et al., (2008) recorded maximum fruit
+2
+and Spray Propiconazole 25% EC (49.40%), T : Seedling yield (227.25 q/ha) registering 71.12 % increase in yield
+4
+dip with Carboxin 37.5% + Thiram 37.5% WP and Spray over control with maximum cost benefit ratio of 1:12.85 and
+Mancozeb 75% WP (45.20%) and T : Seedling dip with Chaukhe et al., (2017) [4] who reported that maximum yield
+5
+Carboxin 37.5% + Thiram 37.5% WP and Spray Propineb of brinjal (185.52 q/ha) registering 32.10 % increase in yield
+70% WP (43.37%). over control with maximum cost benefit ratio of 1:12.87
+Similar results were reported by Singh et al. (2012) [18] who with carbendazim (0.1%) against Phomopsis blight of
+assessed the effectiveness of five fungicides Bavistin brinjal.
+(0.1%), Vitavax (0.1%), Blitox-50 (0.2%), Ridomil (0.2%),
+Indofil M-45 (0.2%) and one bio-pesticide Nimbidine Conclusion
+(0.5%), on disease severity and yield of brinjal. They found Seedlings dip with Carboxin 37.5% + Thiram 37.5% WP
+that spraying Bavistin (0.1%) and Vitavax (0.1%) at 15-day and spray of Carbendazim 50% WP found most effective in
+intervals was most effective in reducing disease incidence controlling Phomopsis blight showed least disease severity
+and increasing yield. conducted experiment to assess the of 16.27 % and showed highest disease control 63.25%
+efficacy of different fungi toxicants in in-vivo condition and respectively over the untreated control plot. The same
+observed that seed treatment with Saaf @ 2g/kg seed + 2 treatment resulted in maximum fruit yield of 28.96 t/ha
+foliar sprays with Contaf @ 0.1% recorded least disease registering 60.00 % increase in yield over the untreated
+intensity with highest fruit yield. control plot with ICBR of 1:25.91.The second best treatment
+The data in table 1 represented that the significant difference was Seedling dip with Carboxin 37.5% + Thiram 37.5% WP
+in yield of brinjal due to various treatments over the and Spray Carbendazim 12% + Mancozeb 63% WP showed
+untreated control. Among the treatments, highest yield of disease severity of 16.53 % and showed disease control
+28.96 t/ha was obtained in treatment T (Seedling dip with 62.66 % respectively over the untreated control plot with
+1
+Carboxin 37.5% + Thiram 37.5% WP and Spray fruit yield of 28.60 t/ha registering 58.01 % increase in yield
+~ 389 ~
+International Journal of Agriculture and Food Science https://www.agriculturaljournals.com
+over the untreated control plot with ICBR of 1:20.74 17. Singh BK, Singh S, Singh GK, Yadav SM. Some
+followed by Seedling dip with Carboxin 37.5% + Thiram important plant pathogenic diseases of brinjal (Solanum
+37.5% WP and Spray Hexaconazole 5% EC showed disease melongena L.) and their management. Plant Pathol J.
+severity of 16.80 % and showed disease control 62.05 % 2014;13:208-13.
+respectively over the untreated control plot with fruit yield 18. Singh R, Singh PC, Kumar D, Sachan NS. Management
+of 28.59 t/ha registering 57.96 % increase in yield over the of Phomopsis leaf blight of brinjal through different
+untreated control plot with highest ICBR of 1:26.00. These fungicides and biopesticides. HortFlora Res Spectr.
+treatments were at par with each other and significantly 2012;1:371-4.
+superior over rest of the treatments. All treated fungicides 19. Wheeler BEJ. An Introduction to Plant Diseases.
+were found effective in management of Phomopsis blight as London: John Wiley & Sons Ltd.; 1969. p. 301.
+compared to control. 20. Yawalkar KS. Vegetable Crops in India. Nagpur:
+Agriculture and Horticulture Publishing House; 1985.
+References p. 85.
+1. Akhtar J, Chube HS, Singh HB. Phomopsis blight and
+fruit rot of brinjal. In: Biotechnology Plant Health
+Management. 2007. p. 421-38.
+2. Anonymous. Agricultural Statistics at a Glance. 2023.
+p. 94.
+3. Beura SK, Mahanta IC, Mahapatra KB. Economics and
+chemical control of Phomopsis twig blight and fruit rot
+of brinjal. J Mycopathol Res. 2008;46(1):73-6.
+4. Chaukhe AN, Patil MJ, Sawai HR, Parate RL, Chargen
+SU. Fungicidal control of Phomopsis blight of brinjal.
+Int J Res Biosci Agric Technol. 2017;5(2):398-400.
+5. Chaukhe AN, Patil MJ, Tekale AG, Deshmukh AP.
+Effect of chemical control of Phomopsis blight of
+brinjal caused by Phomopsis vexans. Int J Chem Stud.
+2020;8(4):2051-3.
+6. Choudhary B, Gaur K. The development and
+regulations of Bt brinjal in India. ISAAA. 2009;38:1-2.
+7. Islam M, Asaduzzaman M, Faruk M, Hossain M,
+Sarker M, Alam K. Environmental and chemical control
+of Phomopsis blight and fruit rot of eggplant caused by
+Phomopsis vexans. J Sci Found. 2021;18(2):81-7.
+8. Jakatimath S, Mesta R, Mushrif S, Biradar IB,
+Ajjappanavar PS. In vitro evaluation of fungicides,
+botanicals and bio-agents against Phomopsis vexans,
+the causal agent of fruit rot of brinjal. J Pure Appl
+Microbiol. 2017;11:229-35.
+9. Kalda TS, Swarup V, Choudhary B. Studies on
+resistance to Phomopsis blight in eggplant (Solanum
+melongena L.). Veg Sci. 1976;3:65-70.
+10. Kashyap SV, Collonier C, Fusari F, Haicor R, Rotino
+GL, Sihachakr D, et al. Biotechnology of eggplant. Sci
+Hortic. 2003;97(1):1-25.
+11. Nadkarni KM. Indian Materia Medica. 2nd ed.
+Bombay: Popular Prakashan; 1927.
+12. Pani BK, Singh DV, Nanda SS. Chemical control and
+economics of Phomopsis blight and fruit rot of brinjal
+in the Eastern Ghat Highland Zone of Odisha. Int J
+Agric Environ Biotechnol. 2013;6:581-3.
+13. Panse VG, Sukhatme PG. Statistical Methods for
+Agriculture Workers. New Delhi: IARI; 1978.
+14. Rajan S, Markose BL. Propagation of Horticultural
+Crops. Horticulture Science Series. 2002;6:94.
+15. Rohini, Gowtham HG, Niranjana SR. Evaluation of
+efficacy of fungicides against Phomopsis leaf blight of
+brinjal (Solanum melongena L.). Int J Agric Sci Resour.
+2015;5(6):45-50.
+16. Ekka S, Kumar M, Lal HC, Chakravarty MK, Soren A.
+Management of fruit rot of brinjal caused by Phomopsis
+vexans through fungicides, plant extract and host plant
+resistance. Int J Curr Microbiol Appl Sci. 2018;7:5119-
+24.
+~ 390 ~

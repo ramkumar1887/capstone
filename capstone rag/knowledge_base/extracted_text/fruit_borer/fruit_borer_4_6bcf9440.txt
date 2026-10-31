@@ -1,0 +1,31 @@
+Integrated Pest Management of Brinjal Fruit and Shoot Borer, Leucinodes orbonalis (Guenee.): Strategies, Emerging Technologies and Meteorological Drivers
+Dept. of Entomology, Keladi Shivappa Nayaka University of Agricultural and Horticultural Sciences, Shivamogga, Karnataka (577 204), India
+https://orcid.org/0009-0009-9326-9765
+Dept. of Agricultural Entomology, University of Agricultural Sciences, Bangalore, Karnataka (560 065), India
+Dept. of Entomology, S.V. Agricultural College, ANGRAU, Tirupati, Andra Pradesh (517 502), India
+Dept. of Entomology, College of Agriculture, V. C. Farm, Mandya, Karnataka (571 405), India
+Dept. of Agricultural Entomology, Adichunchanagiri College of Agricultural Sciences, Karnataka (572 221), India
+Dept. of Entomology, University of Agricultural Sciences, Raichur, Karnataka (584 104), India
+https://doi.org/10.23910/1.2025.6737
+IPM, Bt brinjal, resistance, biopesticides, Cry1Ac
+This review comprehensively evaluated the integrated pest management (IPM) strategies for sustainable control of the brinjal fruit and shoot borer,
+(Guenee), a major constraint to eggplant production across South and Southeast Asia. The study emphasized a multi-tactical framework that integrated biological, cultural, mechanical, chemical, and emerging biotechnological interventions to minimize pest incidence and crop loss. Biological control constituted a cornerstone of IPM, utilizing key parasitoids such as
+, as well as microbial agents including
+Trichoderma longibrachiatum
+and entomopathogenic nematodes (
+spp.), which enhanced natural suppression of larval populations. Cultural and mechanical practices-particularly weekly pruning and destruction of infested shoots and fruits, coupled with field sanitation-were essential for disrupting the pest life cycle. Pheromone-based monitoring and mass trapping served as precise tools for surveillance and population reduction, enabling timely and need-based interventions. Chemical control remained an integral component under threshold-based conditions; however, the use of selective insecticides such as Spinosad and Chlorantraniliprole in rotation with biopesticides was recommended to delay resistance and conserve beneficial arthropods. Additionally, transgenic
+brinjal expressing the Cry1Ac protein provided a highly effective and environmentally compatible option, substantially reducing insecticide dependence. Collectively, the integration of these complementary tactics within an ecologically balanced IPM framework offered a sustainable, cost-effective, and scientifically robust approach for managing
+, improving yield stability, and enhancing profitability in eggplant cultivation systems.
+Download data is not yet available.
+1.
+Reddy NKS, Vijay A, Kalyan MP, Sugeetha G, Nagarjuna TN, Suresha GV. Integrated Pest Management of Brinjal Fruit and Shoot Borer, Leucinodes orbonalis (Guenee.): Strategies, Emerging Technologies and Meteorological Drivers. IJBSM [Internet]. 2025 Dec. 11 [cited 2026 Sep. 30];16(Dec, 12):01-8. Available from: https://ojs.pphouse.org/index.php/IJBSM/article/view/6732
+Endnote/Zotero/Mendeley (RIS)
+Vol. 16 No. Dec, 12 (2025)
+Copyright (c) 2025 Nikhil K. S. Reddy, Anitha Vijay, Mude Pavan Kalyan, G. Sugeetha, T. N. Nagarjuna, G. V. Suresha
+This work is licensed under a
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+.
+Authors retain copyright. Articles published are made available as open access articles, distributed under the terms of the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+, which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original author and source are credited.
+This journal permits and encourages authors to share their submitted versions (preprints), accepted versions (postprints) and/or published versions (publisher versions) freely under the CC BY-NC-SA 4.0 license while providing bibliographic details that credit, if applicable.

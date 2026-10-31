@@ -1,0 +1,389 @@
+Journal of Agroforestry and Environment
+Volume 18, Issue 2, 2025
+Journal DOI: https://doi.org/10.55706/jae
+Journal homepage: www.jagroforenviron.com
+Management of Brinjal Shoot and Fruit Borer (Leucinodes orbonalis)
+Using Bio-Rational Pesticides
+Md. Forhad Hossain1, Md. Harunur Rashid, Hasan Fuad El Taj1 and Md. Alamgir Hossain1*
+1Hajee Mohammad Danesh Science and Technology University, Dinajpur 5200, Bangladesh
+*Correspondence: alamgir@hstu.ac.bd, alamgirhstu@gmail.com; Phone: +88-01712572211
+Received: 20/05/2025 Abstract: Brinjal is one of the most important vegetables but frequently attacked by
+Accepted: 29/07/2025 brinjal shoot and fruit borer (BSFB), a major constraint of brinjal production. A field
+trial was conducted to evaluate the efficacy of four bio-rational insecticides viz., T
+Available online: 06/08/2025 1
+= Cyproflanilide, T = Azadirachtin, T = Spinosad and T = Buprofezin against
+2 3 4
+BSFB on brinjal in RCBD (Randomized Complete Block Design) with three
+replications. The study was carried out from October 2023 to April 2024 at the field
+laboratory of the Department of Entomology at Hajee Mohammad Danesh Science
+and Technology University in Dinajpur, Bangladesh. The Spinosad-treated plots had
+the highest number of healthy shoots (71.00) but the untreated control had the lowest
+Copyright: ©2025 by the author(s).
+(43.00). The untreated control had the highest infested shoots (21.67), while the
+This work is licensed under a Creative
+Spinosad-treated plots had the fewest (7.67). Spinosad (T ) treated plots showed the
+Commons Attribution 4.0 License. 3
+highest reduction (70.94%) of infested shoot over untreated control. Similarly, the
+https://creativecommons.org/licenses/by/4.0/
+highest (52.33) number of healthy fruits were observed from the Spinosad treated
+plants while the lowest (19.33) from the untreated control that offered maximum
+reduction (71.64%) of damaged fruits above the untreated control. Spinosad yielded
+the highest weight of healthy fruits (4.90 kg/plot), but the untreated control had the
+lowest (2.00 kg/plot). Similarly, Spinosad treated plants had the lowest (0.66
+kg/plot) weight of infested fruits, but untreated control exhibited the highest
+(2.60kg/plot) infested fruits. So, Spinosad could be utilized to defend brinjal against
+BSFB maintaining food security and biosafety.
+Key words: Brinjal; Bio-rational pesticides; Potency; Brinjal shoot and fruit borer
+INTRODUCTION uncommon and infested flowers are incapable of producing
+fruit (Alam et al., 2006). Additionally, they destroy fruits
+Brinjal (Solanum melongena L., Solanacae) is an
+by feeding on their mesocarp (Neupane, 2001), rendering
+important cosmopolitan delicious economic and popular
+them unfit for human consumption (Baral et al., 2006). A
+vegetable after potato (Kantharajha and Golegaonkar, 2004;
+larva may typically infest 4-7 fruits in its lifetime and
+Shelton et al., 2020). Commercially this crop is cultivated
+destroy 80% of the vitamin C content (Sharma, 2002).
+of hot and humid prevail climates of South East Asia like
+Bangladeshi farmers mostly use insecticides to
+Bangladesh (Thapa, 2010). The production of this crop in
+Bangladesh is still very low and far below as compared to
+control BSFB for quick remedies (Singh and Singh, 2002,
+Latif et al., 2010). According to a survey, 98% of farmers
+international standard. The main obstacle to the production
+used insecticides, with 60% applying them at least 120 -140
+of brinjal is that several insect pests attack the crop (Sharma
+times over a growing season (Alam et al., 2003; Rashid et
+and Tayde, 2017). Of them, the most damaging pest of
+al., 2004). However, non-judicious use of pesticides has
+brinjal is the brinjal shoot and fruit borer (BSFB),
+serious detrimental effects (Patel et al., 2015). Researchers
+Leucinodes orbonalis Guenee (Lepidoptera: Pyralidae)
+are worldwide now currently attempting to develop
+(Saimandir and Gopal 2012; Nusra et al., 2020). BSFB
+alternatives of synthetic insecticides to protect crops from
+larvae can significantly reduce yield by up to 90%
+pests (Latif et al., 2010; Isman, 2006). The new generation
+(Kodandaram et al., 2017, Gautam et al., 2019). They
+insecticides could offer several advantages over
+damage flowers, fruits, tender shoots, and petioles (CABI,
+conventional pesticides like high selectivity, excellent
+2007); however, after fruit set, shoot infestations decline
+efficacy, safe to beneficial insects, economical, less prone,
+entirely (Naqvi et al., 2009) or become insignificant
+biodegradable, compatible with other pesticides, and
+(Kumar and Dharmendra, 2013). Flower infestation is very
+environmentally safe (Stevenson et al., 2017). Besides, they
+Journal of Agroforestry and Environment 2025,18(2):13-17
+DOI: https://doi.org/10.55706/jae1816
+13
+Hossain et al. Journal of Agroforestry and Environment 2025, 18(2):13-17
+are bio-rational, disrupts the normal growth and
+development and eventually causing to triggers death. But Table 1. Tested different bio-rational insecticides
+research on the bio-rational insecticides against the BSFB Registrat
+Treat Trade name and Common Dose
+are scanty (Latif et al., 2009). So, keeping importance of -ion
+ments formulation name (mlL-1)
+BSFB, a field trial was conducted to evaluate the potential holder
+of four bio-rational insecticides viz., Cyproflanilide,
+Auto
+Azadirachtin, Spinosad and Buprofezin against BSFB.
+Cyproflanilide Crop
+T Diamide 2 ml
+1 10% DC Care
+MATERIALS AND METHODS Ltd.
+Experimental Site and Soil Properties Ispahani
+Bioneem plus Azadirac
+The experiment was carried out from October 2023 to T 2 1.0 EC htin 2 ml Agro
+April 2024 in the field laboratory of the Department of Ltd.
+Entomology, Hajee Mohammad Danesh Science and Auto
+Technology University, Dinajpur. The land was sandy loam Crop
+T Tracer 45 SC Spinosad 0.4 ml
+having pH 5.52 with electrical conductivity 2.0 mS/m and 3 Care
+medium inorganic matter with Agro-ecological zone 1 Ltd.
+(AEZ-1) of Old Himalayan Piedmont Plain. Square
+Buprofez
+T
+4
+Award 40 SC
+in
+0.4 ml Pharma.
+Land Preparation Ltd.
+The study was set up by three replications using a Untreated
+T - - -
+Randomized Complete Block Design (RCBD). A power 5 control
+tiller was used to prepare the land for a good tilth. The
+stubbles and uprooted weeds were removed from the field Data Collection
+and the land levelled prior to transplanting. The plots were Data were collected on the number of infested shoots
+3 m x 3 m in size, with 1.5 m separating each plot and 2 m plant-1, number of healthy shoots five plant-1, number of
+from each block. Rows were kept one meter apart, and infested fruits five plant-1, number of healthy fruits five
+plants were kept 60 cm apart. plant-1, healthy fruits plot-1, infested fruits plot-1, total yield
+plot-1, yield increase over control due to treatments.
+Number of healthy shoots and fruits were determined by
+Crop culture direct counting. Percent infested shoots and fruits, and
+Applied 15 tons of cow dung while 115, 72 and 75 kg of shoots and fruits infestation reduction over control were
+N, P O and K O fertilizers, respectively per hectare determined by following formulae:
+2 5 2
+(Tripura et al.,2017). Half of cow dung and a basal dose Shoot infestation (%) by number = × 100
+of P O were applied at the time of land preparation.
+2 5
+(Yousafi et al., 2015)
+Rest cow dung, P O , and one-third of K O were
+2 5 2
+applied on the field when the seedlings were Fruit infestation (%) by number = × 100
+transplanted. The remaining K O and full N were used
+2 (Yousafi et al., 2015)
+as a top dressing. One third urea as first top dressing was
+Shoot infestation (%) reduction = × 100
+allocated at 15 days after transplant. One-third of N and
+P O were top-dressed at first blooming while remaining (Faruq et al., 2021)
+2 5
+urea and MP at the first fruiting stage. The BARI begun-9 Fruit infestation (%) reduction = × 100
+variety was sown in a seed bed (5 m × 1 m) at the first week
+(Faruq et al., 2021)
+of October 2023. Healthy brinjal seedlings of forty days-old
+(3/4 leaf stage) were transplanted in the experimental
+Data Analysis
+plots.
+SPSS software was used for analysis of variance
+(ANOVA) on the data. The Duncan Multiple Range Test
+Treatments
+(DMRT) was used to perform mean separation.
+Four different bio-rational insecticides were tested to
+evaluate the potency against the BSFB. They were sprayed
+(Table 1) just once shoot infested at 10 days intervals using RESULTS
+hand sprayer fitted with a hollow cone nozzle and operated
+A. Effects of treatments against BSFB on shoot
+at optimum bar pressure. First spray was done at vegetative
+infestation
+stage just after started of shoot infestation. Consequently,
+two sprays were applied on 10 days of intervals on crop in Treatments by different bio-rational insecticides had
+the fruiting stage. Only water was applied to untreated potential effects against BSFB on healthy and infested
+control plots. Precautions were taken to prevent drift to the shoots of brinjal (Figure 1). Significantly (P < 0.05, df = 4,
+experimental plots. Treatments were assigned at afternoon F = 13.55) the Spinosad-treated plot had the highest number
+since fewer pollinator active at that time. of healthy shoots (71.00) of all the treatments. Conversely,
+the fewest (43.00) number of healthy shoots were observed
+from the untreated control. Similarly, statistically (P < 0.05,
+DOI: https://doi.org/10.55706/jae1816
+14
+Hossain et al. Journal of Agroforestry and Environment 2025, 18(2):13-17
+df = 4, F = 22.43) the lowest (7.67) number of infested
+shoots were found in Spinosad tested plants but the highest
+(21.67) from the untreated control. Likewise (P < 0.05, df =
+4, F = 73.75), the highest infested shoot (33.61%) was
+calculated in the untreated control whereas the lowest
+(9.8%) from the Spinosad treated plot. The Spinosad (T )
+3
+treated plot showed the highest reduction (70.94%) over the
+untreated control.
+B. Effects of treatments against BSFB on fruit weight
+by number
+Statistically (P < 0.05, df = 4, F = 22.41) the weight of
+Figure 2. Efficacy of four different bio-rational insecticides
+healthy and infested fruits by number affected due to
+on fruit infestation (by number) against brinjal shoot and
+treated insecticides against the BSFB (Figure 2).
+fruit borer
+Significantly the highest (52.33) number of healthy fruits
+were found from the Spinosad treated plot while the lowest
+(19.33) from the untreated control. Remarkably (P < 0.05,
+df = 4, F = 16.12) the lowest number of infested fruits
+(8.67) were recorded from the Spinosad treated plants while
+the untreated control had the highest infested fruits (21.67).
+Again, statistically (P < 0.05, df = 4, F = 26.48) the highest
+infested fruits (52.90%) were counted in the control plots
+but the lowest (15.00%) in Spinosad treated plant. All of
+the treatments decreased the percentage of infested fruits
+but the Spinosad (T ) showed the highest reduction
+3
+(71.64%) over untreated control. Similarly, statistically (P <
+Figure 3. Efficacy of four different bio-rational insecticides
+0.05, df = 4, F = 6.97) Spinosad yielded the highest healthy
+on fruit infestation by weight (kg) against brinjal shoot and
+fruits (4.90 kg/plot), but the untreated control had the
+fruit borer
+lowest (2.00 kg/plot). Spinosad treated plants had the
+lowest (0.66 kg) weight of infested fruits but the untreated
+control exhibited the highest (2.60kg) infested fruits. Also,
+statistically (P<0.05, df=4, F=86.22) the untreated control
+calculated the highest (56.5%) infested fruits but the
+Spinosad assigned plant had the lowest (12.5%). All
+treatments significantly reduced the fruit infestation but the
+Spinosad (T ) showed the highest reduction (77.87%) over
+3
+untreated control.
+C. Effects of insecticides on yield (kg/plot)
+Based on the yield, the Spinosad treated plot had the
+highest yield (5.56 kg plot-1), while plots treated with
+Azadirachtin and Cyproflanilide showed the statistically Figure 4: Efficacy of four different bio-rational pesticides
+similar in yield Figure 4. Conversely, untreated control on fruit yield (kg/plot) of brinjal against brinjal shoot and
+provided the statistically similar yield. fruit borer
+DISCUSSIONS
+Results revealed that the tested bio-rational insecticides
+had profound effects on healthy and infested shoots against
+s the BSFB (Fig. 1). All of the treatments considerably
+tn
+e m decreased the shoot infestation due to treatments applied.
+ta
+e Present findings are parallel with the results of Tripura et
+rT
+al. (2017). They cited that bud attack was found minimum
+in Spinosad 45 SC treated plot. Present findings are also
+comparable with the result of Akter et al. (2017). They
+experienced that Tracer 45 SC performed the best in
+reducing 85.60% shoot infestation over control against
+BSFB. Various scholars in other field experimented trail
+and found good results on Spinosad 2.5 SC assigned plots
+Figure 1. Efficacy of four different bio-rational insecticides
+(Adiroubane and Raghuraman, 2006; Patra et al., 2009).
+on shoot infestation (by number) against brinjal shoot and
+The applied bio-rational insecticides had promising
+fruit borer
+effects on healthy fruits and consequently offered lowest
+DOI: https://doi.org/10.55706/jae1816
+15
+Hossain et al. Journal of Agroforestry and Environment 2025, 18(2):13-17
+infested fruits against the BSFB (Figure 2). Novel the ecosystem's (Rashid et al., 2004; Patel et al., 2015).
+innovative research proven that the diverse pesticides i.e. Bio-rational pesticides especially Spinosad undoubtedly as
+IGRs, bacterial extracts etc. have been successfully used by alternative in pest control initiatives, particularly for
+a number of researchers to combat the BSFB (Patra et al., BSFB. The trailed Spinosad could offer significant
+2009; Mamun et al., 2014, Singh and Sachan, 2015). All advantages for our country on sustainable BSFB
+the applied insecticides showed the promising results but management, ensuring food security and biosafety in such a
+Spinosad (T ) treated plot at 0.4 ml/L water showed the changing climate.
+3
+highest (71.64%) reduction of infested fruits over untreated
+CONCLUSION
+control. Present outcomes are also comparable of the
+observations as stated by Akter et al. (2017). They opined Tested all four bio-rational insecticides viz.,
+that highest number of healthy fruits were counted from Cyproflanilide, Azadirachtin, Spinosad and Buprofezin
+Spinosad treated plots. Also, Spinosad treated plots showed were found effective as compare to untreated control in
+the highest reduction of infested fruits while compared to combating BSFB on brinjal. But Spinosad (Tracer 45 SC)
+untreated control. These results are also analogous with the was found very potent contrast to other treatments.
+findings of Awal et al. (2015). They found the highest Therefore, it may be concluded that Spinosad (Tracer 45
+healthy fruits of brinjal plot-1 from Spinosad treatment. SC) could be used in protecting the brinjal crop against
+Parallel results were also cited by (Awal et al.,2015) using BSFB as it is natural origin, biodegradable and safe for
+Spinosad against BSFB. mammal to enhancing biosafety and food security.
+The outcomes of the present study suggests that the Acknowledgement
+applied treatments especially Spinosad (Tracer 45 SC) The authors acknowledge the Institute of Research and
+achieved the topmost in confirming a greater quantity and Training (IRT), HSTU, for financial support as research
+weight of healthy fruit in comparison to the untreated grants.
+control. The effectiveness of Spinosad is consistent with the Conflict of Interest
+results of previous researchers. They claimed that Spinosad The authors declare no conflicts of interest.
+had the highest brinjal yield and was the most effective in
+reducing shoot and fruit infestation by (Abdullah et al., REFERENCES
+2014, Gowrish et al., 2015). Parallel results were reported Abdullah, M.D., Mamun, A.L., Islam, K.S., Jahan, M. and Das, G.
+by Awal et al. (2015). They found the highest weight of 2014. Effect of spinosad and sex pheromone alone and in
+healthy fruits of brinjal plot-1 from the Spinosad treatments. combination against the infestation of brinjal shoot and fruit
+Similar results were also cited by (Akter et al., 2017) who borer, Leucinodes orbonalis Guen. International Journal of
+concluded that the highest weight of healthy fruits of brinjal Research in Biological Sciences. 4(1): 20-24.
+plot-1 from Spinosad treatment. Adiroubane, D. and Raghuraman, K. 2006. IPM in brinjal shoot
+and fruit borer management. Journal of Biopesticides. 1(2):
+Spinosad an incredible insecticide is highly effective on
+124-129.
+diverse insect pests (Thompson and Hutchins, 1999). The
+Akter, S., Alam, M.Z., Rahman, M.M. and Aka, A.M. 2017.
+efficacy of Spinosad is in conformity with the conclusions
+Evaluation of some management options against brinjal
+of earlier studies (Akter et al., 2017). They reported that (Solanum melongena L.) shoot fruit borer (Leucinodes
+among the applied treatments, Spinosad was found to be orbonalis Guenee). The Agriculturists. 15(1): 49-57.
+most effective in reducing shoot and fruit infestation of Alam, S.N., Hossain, M.I., Rouf, F.M.A., Jhala, R.C., Patel,
+brinjal. Higher efficacy of Spinosad against brinjal shoot M.G., Rath, L.K., Sengupta, A., Baral, K., Shylesha, A.N.,
+and fruit borer was also reported by many researchers (Latif Satpathy, S., Shivalingaswamy, T.M., Cork, A. and Talekar,
+et al., 2009; Singh and Sachan, 2015). Spinosad (Tracer 45 N.S. 2006. Implementation and promotion of an IPM strategy
+for control of eggplant fruit and shoot borer in South Asia.
+SC) would be a good fit for integrated pest management
+Technical Bulletin no. 36. AVRDC Publication number 06-
+(IPM) against BSFB for efficient brinjal production since it
+672. AVRDC-The World Vegetable Center, Shanhua, Taiwan,
+is comparatively harmless for ecosystems and natural
+74.
+enemies (Awal et al., 2015). Alam, S.N., Rashid, M.A., Rouf, F.M.A., Jhala, R.C., Patel, J.R.,
+Although to differing degrees, BSFB infestations were Satpathy, S., Shivalingaswamy, T.M., Rai, S., Wahundeniya, I.,
+found throughout the growing season although the the Cork, A., Ammaranan, C., Talekar, N.S. 2003. Development of
+degree of infestation fluctuated. This aligns with findings of an integrated pest management strategy for eggplant fruit
+previous studies where untreated plots consistently showed shoot borer \in South Asia. Shanhua, Taiwan 2003. AVRDC-
+higher susceptibility to BSFB larvae during early stage of the world vegetable center. Technical Bulletin no. 29. AVRDC
+publication no. 56: 03-548.
+plant (Ghodake et al., 2024). Islam et al. (2019) found that
+Awal, A., Rahman, M.M., Alam, M.Z. and Khan, M.M.H. 2015.
+the lowest fruit infestation was calculated in Spinosad
+Diversity and equitability of insect pests and natural enemies
+treated plot while untreated plot showed the highest result.
+in brinjal field treated with insecticides. Jahangirnagar
+The finding of that study is similar with the present study. University Journal of Biological Sciences. 4(1): 71-80.
+Mannan et al. (2015) reported that the fruit infestation Baral, K., Roy, B.C., Rahim, K.M.B., Chatterjee, H., Mondal, P.,
+reached the highest level (38.56%) at 14th week of Mondal, D., Ghosh, D. and Talekar, N.S. 2006. Socio-
+transplanting. economic parameters of pesticide use and assessment of impact of an
+Usually, shoot and fruit borer larvae are typically IPM strategy for the control of eggplant fruit and shoot borer in
+managed through the randomly application of pesticides West Bengal, India. Tech. Bull., 37. No. 06-673. AVRDC-
+The World Vegetable Center. Shanhua, Taiwan, p.36.
+(Mukherjee, 2003) that boost up limitless residual effects in
+DOI: https://doi.org/10.55706/jae1816
+16
+Hossain et al. Journal of Agroforestry and Environment 2025, 18(2):13-17
+CABI (Centre for Agriculture and Bioscience International). Crop Leucinodes orbonalis Guenee in brinjal plant. Frontiers in
+Protection Compendium 2007. CAB International. Bioscience-Elite. 12: 35-47.
+(Available at: http://www. cabicompendium. org/cpc Patel, L.C., Konar, A. and Sahoo, C.S. 2015. Biophysical
+Faruq, M.O., Latif, M.A., Khan, M.M.H., Das, G.P. and Uddin, screening of brinjal genotypes against fruit and shoot borer,
+M.R. 2021. Management of brinjal shoot and fruit borer Leucinodes orbonalis (Guenee). The Bioscan. 10: 905-909.
+(Leucinodes orbonalis Guenee) using Selected Insecticides in Patra, S., Chatterjee, M.L., Shanowly, M. and Samanta, A. 2009.
+Farmer’s Fields at Bandarban Hill Tracts, Field evaluation of some new insecticides against brinjal shoot
+Bangladesh. International Journal for Asian Contemporary and fruit borer, Leucinodes orbonalis (Guen.). Pesticide
+Research. 1: 106-112. Research Journal. 21(1): 58- 60.
+Gautam, M., Kafle, S., Regmi, B., Thapa, G. and Paude, S. 2019. Rashid, M.A., Alam, S.N., Rouf, F.M.A. and Talekar, N.S. 2004.
+Management of brinjal fruit and shoot borer (Leucinodes Socio-economic parameters of eggplant pest control in
+orbonalis Guenee) in Nepal. Acta Scientific Agriculture, Jessore District of Bangladesh. Shanhua, Taiwan: AVRDC-
+3(9): 188-195. DOI: 10.31080/ASAG.2019.03.0632 the world vegetable centre. AVRDC Publication No. 29, pp.
+Ghodake, R.D., Hole, U.B., Kharbade, S.B., Bagde, A.S. and 03-556.
+Galande, S.M. 2024. Efficacy of bio-rational pesticides for the Saimandir, J. and Gopal, M. 2012.Evaluation of synthetic and
+management of Leucinodes orbonalis Guenee, infesting natural insecticides for the management of insect pest control
+brinjal (On Fruit). International Journal of Statistics and of eggplant (Solanum melongena L.) and pesticide residue
+Applied Mathematics. 9(2), 40-45. dissipation pattern. American Journal of Plant Sciences. 3:
+Gowrish, K.R., Ramesha, B., Ushakumai, R. 2015. Biorational 214-227.
+management of major pests of brinjal. Indian Journal of Sharma, J.H. and Tayde, A.R. 2017. Evaluation of bio-rational
+Entomology. 77(1): 51-55. pesticides, against brinjal fruit and shoot borer, Leucinodes
+Isman, M.B. 2006. Extracted from the neem tree (Azadirachta orbonalis Guen. On brinjal at Allahabad Agroclimatic
+indica), azadirachtin acts as an antifeedant, insect growth region. International Journal of Current Microbiology and
+regulator, and repellent. It disrupts hormonal balance in Applied Sciences. 6(6): 2049-2054.
+insects, inhibiting their growth and reproduction, thereby Sharma, D.R. 2002. Bioefficacy of certain insecticide and
+reducing pest populations. Azadirachtin is noted for its biopesticides against major pest of brinjal under field
+minimal environmental impact and safety for humans and condition. M.Sc. thesis. Indian Agric. Res. Inst. New Delhi,
+beneficial insects. Pest Management Science. 62(8): 651-659. India. p. 160.
+Kodandaram, M.H. Rai, A.B., Sharma, S.K. and Singh, B. 2017. Shelton, A.M., Sarwer, S.H., Hossain, M.J., Brookes, G. and
+Shift in the level of susceptibility and relative resistance of Paranjape, V. 2020. Impact of Bt brinjal cultivation in the
+brinjal shoot and fruit borer Leucinodes orbonalis (Guen.) to market value chain in five districts of Bangladesh. Frontiers in
+diamide insecticides. Phytoparasitica. 45: 151-154. Bioengineering and Biotechnology. 8: 541115.
+Kumar, S. and Dharmendra, S. 2013. Seasonal incidence and Singh, M. and Sachan, S.K. 2015. Comparative efficacy of some
+economic losses of brinjal shoot and fruit borer, Leucinodes biopesticides against shoot and fruit borer, Leucinodes
+orbonalis Guenee. Agricultural Science Digest, 33: 98-103. orbonalis Guenee in brinjal. Plant Archive. 15(2): 805-808.
+Latif, M.A., Rahman, M.M. and Alam, M.Z. 2010. Efficacy of Singh, Y.P. and Singh, P.P. 2002. Natural parasites and extent of
+nine insecticides against shoot and fruit borer, Leucinodes parasitism to shoot and fruit borer (Leucinodes orbonalis) of
+orbonalis Guenee (Lepidoptera: Pyralidae) in eggplant. Journal brinjal (Solanum melongena) at medium high-altitude hills
+of Pesticides Science. 83: 391-397. of Meghalaya. Indian Journal of Entomology. 64 (2): 222-
+Latif, M.A., Rahman, M.M., Alam, M.Z. and Hossain, M.M. 226.
+2009. Evaluation of flubendiamide as an IPM component for Stevenson, P.C., Isman, M.B. and Belmain, S.R. 2017.
+the management of brinjal shoot and fruit borer, Leucinodes Nowadays, the new generation insecticide molecules could
+orbonalis Guenee. Munis Entomology and Zoology. 4(1): offer several advantages over conventional pesticides like high
+257-267. selectivity, excellent efficacy at low dosage, least harmful to
+Mamun, M.A.A., Islam, K.S., Jahan, M. and Da, G. 2014. beneficial insects, economical, less prone, biodegradable,
+Comparative potency of three insecticides against the compatible with other low-risk pesticides, and
+infestation of brinjal shoot and fruit borer, Leucinodes environmentally safe as well. Frontiers in Plant Science. 8: 17.
+orbonalis Guen. Scholars Academic Journal of Biosciences. Thapa, R.B. 2010.Integrated management of brinjal fruit and
+2(6): 364-369. shoot borer, Leucinodes orbonalis Guen: An overview.
+Mannan, M.A., Islam, K.S. and Jahan, M. 2015. Brinjal shoot and Journal of the Institute of Agriculture and Animal Science. 30
+fruit borer infestation in relation to plant age and season. & 32: 1-16.
+Bangladesh Journal of Agricultural Research. 40(3): 399-407. Thompson, G. and Hutchins, S. 1999. Spinosad Pesticide
+Mukherjee, I. 2003. Pesticide residues in vegetables in and Outlook. 10(2): 78-81.
+around Dehli. Environmental Monitoring and Assessment. Tripura, A., Chatterjee, M.L., Pande, R. and Patra, S. 2017.
+3(7): 265-271. Biorational management of brinjal shoot and fruit borer
+Naqvi, A.R., Pareek, B.L. and Mitharwal, B.S. 2009. Seasonal (Leucinodes orbonalis guenee) in mid hills of Meghalaya.
+incidence of shoot and fruit borer, Leucinodes orbonalis Journal of Entomology and Zoology Studies. 5(4): 41-45.
+Guenee infesting in hyper arid regions of Rajhistan, Journl of Yousafi, Q., Azal, M. and Aslam, M. 2015. Management of
+Insect Science. 22: 195-198. brinjal shoot and fruit borer, Leucinodes orbonalis Guenee,
+Neupane, F.P. 2001. Crop Pest and Their Management (4th ed.) with selected insecticides. Pakistan Journal of Zoology. 47(5):
+(Nepali language). Sajha Prakashan, Pulchwok. Lalitpur, 1413-1420.
+Nepal. p. 582.
+Nusra, F., Paranagama, P.A., Amarasinghe, L.D. and Udukala,
+D.N. 2020. Pheromone baited biopesticide for control of
+DOI: https://doi.org/10.55706/jae1816
+17

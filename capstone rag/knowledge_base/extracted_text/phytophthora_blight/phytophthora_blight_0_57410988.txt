@@ -1,0 +1,50 @@
+Rutgers Cooperative Extension
+Pesticide User Responsibility
+Landscape, Ornamentals, Nursery, & Turf
+Controlling Phytophthora blight in eggplant
+caused by Phytophthora capsici
+, can cause crown and fruit rot in eggplant. Unfortunately, most of New Jersey has been plagued by heavy rains and pop-up thunderstorms these past few weeks making conditions ideal for pathogens such as Phytophthora blight on pepper, eggplant, tomato, and cucurbit crops.
+Control of Phytophthora blight is extremely difficult (even with the use of fungicides) in the very hot, wet weather conditions that most of New Jersey has been through during the month of July. In the past few years a number of new fungicides, with new active ingredients, have become commercially-available for use on multiple crops. Mefenoxam and metalaxyl, both once widely-used to effectively control Phytophthora blight have been hit by resistance issues around much of Southern New Jersey. Growers with a known history of mefenoxam-insensitivity on their farm should use Presidio or Ranman plus a Phosphite fungicide in rotation in their drip application programs for the control of the crown rot phase of Phytophthora blight. Importantly, if mefenoxam has not been used in particular fields on any crop for a number of years (more than 5+) the fungus may revert back to being mefenoxam-sensitive and control with these products may return. Mefenoxam, metalaxyl, and the phosphite fungicides are the most systemic of the group and should readily be taken up the by plant via application through the drip. Orondis Gold (OXTP + mefenoxam) is also systemic. Presidio is locally systemic, and Ranman has protectant activity and can also be applied via drip.
+Recommendations for Controlling the Crown Rot Phase
+mefenoxam–1.0 pt Ridomil Gold 4SL/A or 1.0 qt Ultra Flourish 2E/A or metalaxyl (MetaStar)–4.0-8.0 pt 2E/A at transplanting and 30 days later, or
+Presidio (fluopicolide, 43) at 3.0-4.0 fl. oz 4SC/A at transplanting or 14 days later (in between two mefenoxam applications),
+Ranman (cyazofamid, 21) at 2.75 fl oz 400SC at transplanting (Ranman may be added to transplant water, see label for restrictions) and/or 14 days later (in between two mefenoxam applications)
+Phosphite materials (FRAC code 33) such as Rampart, ProPhyt, K-Khite may also be tank mixed with one of the above to help suppress Phytophthora blight.
+Orondis Gold (oxathiapiprolin + mefenoxam, 49 + 4) at 1.0 pt/A at transplanting and 30 days later. Note, if Orondis Gold is applied via the drip system, it cannot be applied via foliar application.
+If mefenoxam-insensitivity is present, only use Presidio, Ranman, Revus, and/or phosphite fungicides.
+Recommendations for Controlling the Fruit Rot Phase
+Presidio (fluopicolide, 43) at 3.0-4.0 fl. oz 4SC/A (0 day PHI)
+Ranman (cyazofamid, 21) at 2.75 fl. oz 400SC (do not apply with copper) (0 day PHI)
+Forum (dimethomorph, 40) at 6.0 fl. oz/A (1 day PHI)
+Orondis Gold (oxathiapiprolin + mefenoxam, 49 + 4) at 1.0 pt/A (7 day PHI)
+The above fungicides should be rotated on a 7 day schedule for as long as weather conditions are favorable for disease development.
+Recommendations for Organic Practices
+Regular applications of Double Nickel (
+Bacillus amyloliquefaciens
+) as drenches or via the drip system prior to the onset of disease may help suppress Phytophthora blight development in susceptible crops. Rogueing out infected plants, making sure and allowing water to adequately drain out of field may help to suppress the disease.
+Phytophthora Losses Already High?
+If Phytophthora losses have already started because of the heavy rains, pre-emptive cultural practices need be taken immediately. Rogueing out, discing under, and/or hitting areas with a contact herbicide to burn infected plants down will help slow down and/or reduce the spread of inoculum to healthier areas of the block or farm. If beds are chronically wet, plastic can be cut or completely removed to help soils dry out. Overhead irrigation should be avoided to help prevent spread of aerial phase. All infected fruit need to be completely removed from field separately from normal picking.
+Figure 1. Phytophthora crown rot of eggplant.
+Figure . Phytophthora fruit rot of eggplant.
+Rutgers, The State University of New Jersey, U.S. Department of Agriculture, and Boards of County Commissioners. Rutgers Cooperative Extension, a unit of the Rutgers New Jersey Agricultural Experiment Station, is an equal opportunity program provider and employer.
+Rutgers University is an equal access/equal opportunity institution. Individuals with disabilities are encouraged to direct suggestions, comments, or complaints concerning any accessibility issues with Rutgers web sites to:
+Report Accessibility Barrier or Provide Feedback Form
+.
+© Rutgers, The State University of New Jersey, an equal opportunity, affirmative action institution
+Commercial Recommendations
+Commercial Blueberry Pest Control Recommendations
+Commercial Cranberry Pest Control Recommendations
+Commercial Grape Pest Control Recommendations
+Commercial Mid-Atlantic Berry Guide
+(from Penn State College of Agricultural Sciences)
+Commercial Tree Fruit Production Guide
+Disease Control Recommendations for Ornamental Crops
+Fungicide Resistance Management Guidelines for Vegetable Crops - Mid-Atlantic Region
+Insect Control Recommendations for Shade Trees and Commercial Nursery Crops
+Mid-Atlantic Commercial Vegetable Production Recommendations
+Rutgers NJ Weather Network (NJWxNet)
+NEWA: Weather-Pest Forecasting
+Who to Call for Wildlife Damage
+Rutgers Agrivoltaics Program
+Pesticide Applicator Training
+Rutgers Cooperative Extension,

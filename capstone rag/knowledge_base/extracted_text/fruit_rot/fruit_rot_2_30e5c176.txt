@@ -1,0 +1,159 @@
+Evaluation of Fungicides, Botanicals and Bio-agents against
+, the Causal Agent of Fruit Rot of Brinjal
+Department of Plant Pathology (University of Horticultural Sciences), Bagalkot-587104, Karnataka, India.
+Department of Plant Pathology (University of Horticultural Sciences)Kolar-563103, Karnataka, India.
+Department of Agronomy (University of Horticultural Sciences), Arabavi-591307, Karnataka, India.
+Horticultural Research Station (University of Horticultural Sciences) Devihosur-581110, Haveri, Karnataka. India.
+J Pure Appl Microbiol.
+https://doi.org/10.22207/JPAM.11.1.29
+) of brinjal is an important disease of Northern dry zone of Karnataka resulting into heavy losses. Recently the production of brinjal has been drastically reduced due to incidence of fruit rot disease caused by a fungus
+Phomopsis vexans.
+An investigation was carried out to test the efficacy of fungicides, botanicals and bio-agents
+in vitro.
+Among fungicides tested carbendazim, tebuconazole and hexaconazole at 0.25, 0.5, 0.75 and 1.00 per cent concentration showed high inhibition of 100 per cent of mycelial growth of the pathogen. The least mycelial inhibition was observed in case of captaf (63.33%).The results of botanicles tested
+revealed that highest inhibition of mycelial growth of
+was observed in 5 and 10 per cent of garlic extract, kokum extract and onion extract. The results of dual culture technique revealed that fungal bio agents were better than bacterial bioagents in inhibiting the growth of fruit rot pathogen.
+was effectively inhibited by
+p.
+Fungicides, botanicals, bio-agents, Brinjal.
+L.) is an important vegetable crop belongs to the family solanaceae. Brinjal is one of the most common, popular and principal vegetable crops grown in the tropical and sub tropical areas. It’s a highly productive and usually finds its place as the poor man’s crop. This crop is extensively grown in India, Pakistan, Bangladesh, China and Phillipines. South Asia accounts for almost 50 per cent of world brinjal area under cultivation (Harish
+et al.
+, 2011). This sturdy crop is cultivated throughout the year, even in the hot wet monsoon season when other vegetables are in short of supply. In India, brinjal is mainly grown in the states like West Bengal, Orissa, Bihar, Gujarat, Maharastra, Andhra Pradesh, Karnataka etc. with an area of 7.22 lakh hectare with a production of 135.58 metric tonnes and productivity of 19.10 tonnes per ha (Anon., 2014). It contributes about 12.47 per cent of the total production of vegetables in India. In Karnataka, brinjal is cultivated over an area of 15,800 ha with a production of 4002.50 tonnes (Anon., 2014). It is mainly grown in the Bagalkot district. The fruit rot caused by a fungi
+, is becoming severe disease in northern dry zone. The disease was first reported from the Gujarat state in 1914 and since then from many parts of India. In general, the crop loss due to this disease ranges from 15-20% (Hossain
+., 2013). It has been reported that
+reduces yield and marketable value of the crop by nearly 20-30% (Jain and Bhatnagar 1985). The fruit infection takes place during fruit formation just some days prior to the harvest of the crop. This infection becomes severe at the time of harvesting to marketing. Hence the investigation was carried out in the Department of Plant Pathology, UHS, Bagalkot, Karnataka to know the effective fungicides, botanicals and bio-agents for the effective management of fruit rot of brinjal caused by
+.
+The efficacy of 5 systemic fungicides at the concentration of 0.25, 0.5, 0.75 and 1 per cent and three non-systemic fungicides at the concentration of 0.25, 0.5, 0.75 and 1 per cent was determined. The evaluation of fungicides was based on the active ingredient consideration. Required quantity of individual fungicide was added separately into sterilized molten PDA so as to get the desired concentration of the fungicides. Later, 20 ml of the poisoned media was poured into sterilized Petri plates. Mycelium discs of five mm diameter from seven days old culture of the fungus were cut out by sterile cork borer and one such disc was placed at the centre of each plate. PDA without any fungicide served as control. Three replications were maintained for each concentration. Plates were incubated at room temperature for seven days and radial growth was measured when fungus attained maximum growth in control plates. The efficacy of the fungicides was expressed as per cent inhibition of mycelial growth over control which was calculated by using the formula of Vincent (1927). To evaluate the antifungal activity of botanicals fresh samples were washed in tap water and finally washed thrice using sterilized distilled water. They were crushed in a sterilized pestle and mortar by adding little quantity of alcohol (1:1 w/v) just enough to moisten the samples so that it was easy to crush. The extracts were strained through the two layers of muslin cloth. Finally, filtrates thus obtained from the leaves were used as stock solution (Begum and Bhuiyan, 2006). To study the antifungal mechanism of plant extracts, poisoned food technique was followed as suggested by Nene and Thapliyal (1982). For this, 5 and 10 ml of stock solutions were mixed with 95 and 90 ml of sterilized molten potato dextrose agar medium respectively so as to get 5 and 10 per cent concentration. The medium was shaken thoroughly for uniform mixing of plant extract.
+evaluation.
+Sl. No.
+Methyl 1-2-benzimidazole carbomate
+(RS)-2-(2,4-dichlorophenyl)-1-(1H-12,4-triazol-1-yl) hexan-2-ol
+1-(2-(2,4 dichlorophenyl)-4-propyl-1,3-dioxolan-2yl) mythyl)-1H-1,2,4-triazole
+5.
+1-(4-Chlorophenyl)-4,4-dimethyl-3-(1
+,1,2,4-triazol-1-ylmethyl) pentan- 3-ol
+N(1,12,2,tetrachloroenc-1-2-dicorboximide)
+2,4,5,6-Tetrachloroisophthalonitrile
+About 20 ml of medium was poured into each of the 90 mm sterilized Petri plates. Each plate was seeded with 5 mm mycelial discs aseptically taken from the periphery of 7 days old culture and incubated at 27±1°C till the growth of the colony reaches maximum in control plate. Three replications were maintained for each treatment. Suitable control plates were maintained. Mean colony diameter in each case was recorded. The efficacy of the botanicals was expressed as per cent inhibition of mycelial growth over control which was calculated by using the formula as given by Vincent (1927).
+Bio-agents were evaluated for their efficacy through dual culture technique. Twenty ml of sterilized and cooled potato dextrose agar medium was poured into sterilized Petri plates. Fungal antagonists were evaluated by inoculating a pathogen at one side of the Petri plate and the antagonist at exactly opposite side of the same plate by leaving about 4 cm gap. For this, actively growing cultures were used. In case of bacterial antagonist evaluation, two mycelial discs of pathogen were inoculated at the periphery of the Petri plate and bacterial antagonist was streaked in the centre of the same plate. After required period of incubation
+., when the growth in control plate recorded 90 mm in diameter, the radial growth of the pathogens was measured. Per cent inhibition over control was worked out according to the equation given by Vincent (1927). The different antagonistic organisms used against brinjal fruit rot pathogens included,
+maintained at biocontrol unit of UHS Bagalkot.
+Per cent inhibition (I) = C-T/ C X 100
+The per cent inhibition of radial growth off
+by different systemic and non systemic fungicides was recorded and presented in Table 1.
+Table (1) revealed that there was significant difference between the fungicides, concentrations and interaction. The per cent inhibition was reduced as the concentration of fungicides increased from 0.25 per cent to 1.00 per cent. The mean inhibition per cent in carbendazim, hexaconazole and tebuconazole was 100 per cent as they inhibited 100 per cent growth of the
+in all the concentrations tested. The results are depicted in the Fig.1. At 0.25 per cent concentration carbendazim, tebuconazole and hexaconazole recorded 100 per cent inhibition followed by propiconazole (82.00%) and difenoconazole (81.67%). At 0.5 per cent concentratin it showed that carbendazim, tebuconazole and hexaconazole recorded 100 per cent inhibition followed by propiconazole (93.67%) and difenoconazole (88.00%). It is found that as the concentration increased per cent inhibition of mycelial growth also increased in all fungicides. With reference to interaction between fungicides and concentrations, carbendazim, tebuconazole and hexaconazole recorded 100.00 per cent inhibition at all concentration. The least mycelial inhibition was observed in case of captaf (63.33%). The results found are in accords with Hossain
+et al.
+(2013) who reported that Bavistin 50 WP (0.1%) proved to be effective arresting the spore germination and mycelial growth of
+et al.
+(2014) also reported that carbendazim at 0.1% found to inhibit completely the mycelial growth of
+et al.
+evaluation of fungicides against brinjal leaf blight and fruit rot pathogen
+Phomopsis vexans.
+Carbendazim recorded 100% inhibition of
+over control at 1 ppm concentration. Suman and Sujan (2012) conducted the experiment on efficacy of various fungitoxicants alone and in combination against the fruit rot of brinjal caused by of
+and the reported that ridomil-MZ (0.25) and mancozeb (0.25%) alone were most effective in controlling fruit rot infections. Davidse (1986) studied that carbendazim induced nuclear instability disturbibg the mitosis and meiosis, Sudhakar (2000) also studied the efficacy of carbendazim against fungi attributed to the inhibition of biosynthesis process and synthesis of DNA of fungi (Davidse, 1973) carbendazim being a bendamidazole fungicide interferes with energy production and wall synthesis of fungi (Nene and Thapliyal, 1973)
+Fig. 1.
+o evaluation of different fungicides against
+In vitro evaluation of different systemic and non-systemic fungicides against Phomopsis vexans.
+Sl. No.
+Per cent inhibition over control Concentration
+Copper oxychloride (75 WP)
+*Figures presented in parenthesis are angular transformed values.
+The results on the efficacy of botanicals against
+(Table 2) showed that there was a significant difference between the treatments with respect to per cent inhibition of radial growth. At 5 per cent concentration garlic bulb extract and turmeric rhizome extract recorded highest inhibition (100%) followed by kokum fruit extract (65.00%) and neem seed kernel extract (45.66%). Lantana leaf extract recorded 31.33%, which was on par with drumstick leaf extract (30.33%). The lowest inhibition was recorded in drumstick leaf extract (30.33%). The results are depicted in the Fig. 2. At 10 per cent concentration maximum inhibition of radial growth was recorded in garlic and onion bulb extract, kokum fruit extract and turmeric rhizome extract all (100%). Lantana leaf extract (61.00%), clerodendron leaves extract all 52.00% and neem seed kernels extract (51.00%). The lowest inhibition of radial growth of mycelium was observed in drumstick leaf extract (43.66%). The observations of present investigation are in close conformity with Alam (2005) who tested 11 botanicals to control
+fruit rot of egg plant. Among them garlic (
+.) leaf extract were found promising in arresting mycelial growth and inhibiting spore germination of
+Phomopsis vexans, in vitro
+blight and fruit rot of egg plant in the field significantly. Panda
+et al.
+(1996) reported that leaf extract from
+Polyanthia longifolia, Aegle Mermelos, Azadirachcta indica, Catheranthus roseus, Ocimum sanctum
+showed maximum inhibition for control of
+had excellent potential as fungicide.The antimicrobial property of onion bulbs is due to the presence of numerous organic sulphur compounds, including trans-S-(1-propenyl) cysteine sulfoxide, S-methyl-cysteine sulfoxide, Spropylcysteinesulfoxide and cycloalliin; flavonoids; phenolic acids; sterols including cholesterol, stigma sterol, b-sitosterol; saponins; sugars and a trace of volatile oil composed 72 compounds mainly of sulphur compound (Hiba
+2014). The antimicrobial activity of garlic extract obtained in this study is similar to that reported by Esimone
+.
+However the Ankri and David Mirelman., 1999 reported that garlic extracts also have a strong antifungal effect and inhibit the formation of mycotoxins like the aflatoxin of
+. Allicin was assumed to be the main component responsible for the inhibition of fungal growth. A concentrated garlic extract containing 34% allicin, 44% total thiosulfinates, and 20% vinyldithiins possessed potent
+fungistatic and fungicidal activity against three different isolates of
+. Pure allicin was found to have a high anticandidal activity with a minimum inhibitory concentration of 7¼g/mL. Yamada and Azuma (1977) reported that pure allicin was effective
+at low concentration (minimal inhibitory concentrations of allicin were between 1.57 and 6.25 ¼g/mL). Allicin inhibits both germination of spores and growth of hyphae.
+Fig. 2.
+Evaluation of different plant extracts on the growth of
+evaluation of botanicals against
+.
+*Figures presented in parenthesis are angular transformed values.
+The results on the efficacy of bio-agents against Phomopsis vexans (Table 3) revealed that there was significant difference between the treatments with respect to the per cent inhibition of mycelial growth of Phomopsis vexans. Highest inhibition was observed in T. harzianum-p (70.66%) which was significantly superior over all other bioagents followed by T. harzianum- 29 (64.33%), and T. harzianum -28 (63.00%) and the latter two bio-agents were on par with each other and next in order. Least inhibition was observed in case of B. subtilis (6.66%) followed by P. fluorescens (9.33%). The results are depicted in the Fig.3. Observation in present investigation are similar with those findings of Muneshwar et al. (2012) who reported the in vitro evaluation of biocontrol agents against brinjal fruit rot pathogen. Among bio control agents Trichoderma viride (Tv-1), T. virens (Ts-1), T. harzianum (Th-1) and T. viride (JMU-24) overgrew the pathogen exhibiting antagonism. The antagonism of Trichoderma spp. against many fungi is mainly due to production of acetaldehyde compound (Robinson and Park, 1966 and Dennis and Webster, 1971). Though, the genus Trichoderma comprises a large number of species some of which act as biological control agents through one or more mechanisms. Sharma et al., 2012 reported that Trichoderma strains exert control against fungal phytopathogens either indirectly by competing for nutrients and space, modifying the environmental condition, promoting plant growth, plant defensive mechanisms and antibiosis, or directly by mechanisms such as mycoparasitism.
+Fig. 3.
+Evaluation of different bio-agents against
+evaluation of bio-agents against
+Phomopsis vexans.
+Per cent inhibition of mycelia growth
+*Figures presented in parenthesis are angular transformed values.
+evaluation of eight fungicides against fruit rot pathogens was taken up. Among systemic fungicides, carbendazim, propiconazole and tebuconazole showed 100 cent per cent inhibition of mycelia growth at all four concentrations and difenconazole @ 0.75 per cent. Among non systemic fungicides tested against same fungus, chlorothalonil was most effective followed by copper oxychloride and captaf found more effective respectively.
+evaluation of botanicals against fruit rot pathogens was studied. Highest inhibition of mycelial growth of
+was observed in 5 and 10 per cent garlic extract, kokum extract and onion extract. The results of dual culture technique revealed that fungal bio agents were better than bacterial bioagents in inhibiting the growth of all fruit rot pathogens.
+was effectively inhibited by
+p.
+Alam, R., Integrated approaches for
+blight and fruit rot of eggplant. Phd. Thesis,
+2005; BAU, Mymensingh.
+Ankri, S., Mirelman, D., Antimicrobial properties of allicin from garlic.
+Microbe. Infect.
+:125-129.
+Indian Horticulture database, NHB
+, 2014; pp. 131-132.
+Anonymous, Package of practice,
+Bagalkot.Begum, F. and Bhuiyan, M. K. A., 2006, Integrated control of seedling mortality of lentil caused by
+.
+: 60-65.
+Dennis, C. and Webster, J., Antagonistic properties of species groups of
+Production of volatile antibiotics.
+Trans. British Mycol. Soci.,
+: 41-48.
+Harish, D. K., Agasimani, A. K., Imamsaheb, S. J. and Patil Satish, S., Growth and yield parameters in brinjal as influenced by organic nutrient management and plant protection condition.
+(2):221-225.
+Hossain, M. I., Islam, M. R., Uddin, M. N., Arifuzzaman, S. M. and Hasan, G. N., Control of
+blight of eggplant through fertilizer and fungicides management.
+Int. J. Agric. Res. Innov. Tech.,
+(1): 66-72.
+antimicrobial activity of garlic, onion, garlic onion combination (aquatic andoil) extract on some microbial pathogens in Babylon province Iraq.
+World J. Pharm. Pharmacol. Sci
+(8):65-78.
+Jain, M. R. and Bhatnagar, M. K., Efficacy of certain chemicals in the control of fruit rot of brinjal. Pesticides, 1985;
+: 27-28.
+Muneeshwar, S., Razdan, V. K. and Mohd, R.,
+evaluation of fungicides and biocontrol agents against brinjal leaf blight and fruit rot pathogen
+(Sacc. and Syd.) Harter.
+(3): 327-332.
+Nene, Y. L. and Thapliyal, P. N.,
+Fungicides in Plant Diseases control
+.
+Oxford and IBH Publishing Co. Pvt. Ltd.,
+New Delhi, 1982; p. 163.
+Nene, Y., L. and Thapliyal, P. N., 1973, Fungicide in Plant Diseases control, III edition.
+Oxford and IBH Publishing Co. Pvt. Ltd.,
+New Delhi, p. 325.
+Panda, R. N., Tripathy, J. K. and Mohanty, A. K., Antifungal efficiency of Homeopathic drugs and leaf extracts in brinjal.
+(2): 292-294.
+Robinson, P. M. and Park, D., Volatile inhibitor of spore germination produced by Taagi.
+Trans. British Mycol. Soci.
+:639-649.
+Sharma, M., Razdan, V. K. and Rajik, M.,
+evaluation of fungicides and biocontrol agents against brinjal leaf blight and fruit rot pathogen
+.
+(3): 327 – 332.
+p: 850.
+Yamada, Y. and Azuma, K., Evaluation of the
+antifungal activity of allicin,
+Antimicrob, Agents and Chemother.,
+(4): 743-749.
+Jakatimath SP, Mesta RK, Mushrif SK, Biradar IB, Ajjappalavar PS.
+Evaluation of Fungicides, Botanicals and Bio-agents against
+, the Causal Agent of Fruit Rot of Brinjal.
+. 2017;11(1):229-235. doi: 10.22207/JPAM.11.1.29
+JPAM.11.1.29	(3843 downloads	)
+© The Author(s) 2017.
+. This article is distributed under the terms of the
+Creative Commons Attribution 4.0 International License
+which permits unrestricted use, sharing, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made.

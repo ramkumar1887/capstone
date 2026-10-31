@@ -1,0 +1,428 @@
+Biopestic. Int.18(1):9-21 (2022)
+DocID: https://connectjournals.com/02196.2022.18.9 ISSN 0973-483X / e-ISSN 0976-9412
+The Perspectives of Induced Resistance in Brinjal against Phomopsis
+vexans Causing Phomopsis Blight: A Review
+SHUJA AHMED, SHASHIKANT SHARMA, ADESH KUMAR*
+ADARSH SHARMA AND TAMMANA RANA
+Department of Plant Pathology, School of Agriculture, Lovely Professional University, Phagwara, Punjab, India
+KEY WORDS
+ABSTRACT Phomopsis blight is one of the major growth and yield-limiting factors
+Acquired resistance for brinjal production caused by Phomopsis vexans. It is a devastating disease that
+Cultural control affects the production and quality of brinjal by 40–70% and makes brinjal fruits non-
+commercial and inedible, negatively impacting income generation, nutrition, and
+Environment
+health. To cope with the harmful effect of this disease, various cultural, biological and
+Integrated disease
+chemical methods have been followed to control this fungal disease extensively. Since
+management
+the cultural and biological practices have a slow but positive effect, the focus of growers
+Phomopsis blight shifted toward chemical control. Although the chemical methods for the management
+Phomopsis vexans were found most effective and accepted worldwide by the grower, these chemicals
+have many negative consequences for humans, the environment, soil, and water. It has
+Systemic resistance
+been observed that improper and heavy use of fungicides also develops resistance to
+plant pathogens. Hence, there is a strong need for an environment-friendly approach
+which allows a plant to build resistance. This concept of developing resistance into the
+plant system is induced resistance. Among the induced resistances is systemic acquired
+resistance, which works on the principle of the salicylic acid pathway. In contrast,
+induced systemic resistance works on the principle of the jasmonic acid pathway. This
+review aims to explain why Phomopsis blight is an economically significant disease
+of brinjal and provides an extensive discussion on sustainable management strategies
+compared to the canonical and formal recommendations for the control of the disease.
+How to cite this article: Ahmed, S., Sharma, S., Kumar, A., Sharma, A. and Rana, T. (2022) The Perspectives of Induced
+Resistance in Brinjal against Phomopsis vexans Causing Phomopsis Blight: A Review. Biopestic. Int., 18, 9–21.
+INTRODUCTION 1988). Eggplant is considered native to India and a widely
+cultivated vegetable in Asian countries. It is also popular in
+Brinjal, or eggplant (Solanum melongena L.), is a member
+other countries such as Italy, France, Egypt, and the United
+of the nightshade family and is also considered the “King
+States (Choudhury and Malda, 1968). China contributes
+of vegetables” (Borkakati et al., 2019). It is an essential
+around 56% and India 26% of the total brinjal production
+vegetable in southeast, central and south Asia (Kalloo,
+globally. Eggplant is valuable in the warm regions of the Far
+*Corresponding author: E-Mail: adesh.19078@lpu.co.in
+16 Biopesticides International Vol. 18, no. 1
+mildew) and B. cinerea (grey mold) on tomato and pepper and Vernet, G. (2006) Chitosan oligomers and copper
+and to the broad mite pest (Polyphagotarsonemus latus) on sulfate induce grapevine defense reactions and resistance
+pepper (Elad et al., 2010). to gray mold and downy mildew. Phytopathology, 96,
+1188–1194.
+CONCLUSION
+Bakker, P.A.H., Ran, L.X., Pieterse, C.M.J. and Van-
+Loon, L.C. (2003) Understanding the involvement of
+Phomopsis blight is a severe fungal disease of brinjal that rhizobacteria-mediated induction of systemic resistance
+causes significant yield loss, so growers have to apply a in biocontrol of plant diseases. Can. J. Plant Pathol.,
+heavy amount of chemicals to manage the condition, which
+25, 5–9.
+results in adverse environmental consequences and helps
+Bello, G.D and Sisterna, M. (2000) First report of Phomopsis
+develop resistance in a pathogen population against the vexans on apricot in the Americas. Plant Dis., 84, 596.
+chemicals (Pesticides). Therefore, in the present scenario,
+Bernardo, E.N. and Taylo, L.D. (1990) Preference of the
+an alternative eco-friendly module for managing the disease
+cotton leafhopper, Amrasca biguttula (Ishida) for okra,
+and sustainable crop production is very much needed.
+Abelmoschus esculentus (Linn.), and eggplant, Solanum
+Induced resistance is a healthy method of controlling the
+melongena Linn. Philipp. Agric. Sci., 73, 165–177.
+disease as it strengthens the host plant by increasing its
+resistance. We have also turned out to be a lot more aware Beura, S.K., Mahanta, I.C. and Mohapatra, K.B. (2008)
+that the beneficial microbes that can be studied as elicitors of Economics and chemical control of Phomopsis twig blight
+and fruit rot of brinjal. J. Mycopathol. Res., 46, 73–76.
+ISR are a part of a vast micro-biome established at the root-
+soil interface and inside the root compartment. Although Bhat, M., Anwar, A., Mughal, M.N., Mohiddin, F.,
+the importance of the root microbes in improving nutrient Makhdoomi, M., Bhat, A.H. and Fayaz, U. (2019) Morpho-
+availability, antagonizing soil-borne pathogens, promoting cultural and pathological variability in Phomopsis vexans
+plant growth, and priming the plant’s immune system. causing leaf blight and fruit rot of brinjal in Kashmir.
+Indian Phytopathol., 72, 225–233.
+These microbes are well established and abundantly used
+in biocontrol strategies. Induced resistance through PGPRs, Borkakati, R.N., Venkatesh, M.R., and Saikia, D.K. (2019)
+Pseudomonas, Bacillus, Trichoderma spp., and salicylic Insect pests of brinjal and their natural enemies. J.
+acid as inducer were more effective ways to prevent and Entomol. Zoo. Stud., 7, 932–937.
+suppress P. vexans of brinjal. The use of botanicals such as
+Botella, L. and Diez, J.J. (2011) Phylogenic diversity of fungal
+turmeric rhizome extract and Garlic bulb extract caused the
+endophytes in Spanish stands of Pinus halepensis. Fungal
+highest inhibition for the control of P. vexans. Carbendazim
+Divers., 47, 9–18.
+was the most effective of the fungicides investigated at
+lower concentrations. Broadway, R.M., Duffey, S.S., Pearce, G. and Ryan, C.A. (1986)
+Plant proteinase inhibitors: A defense against herbivorous
+insects. Entomol. Exp. Appl., 41, 33–38.
+REFERENCES
+Chandi, R.S. and Chandi, A.K. (2019) Pattern of insecticide use
+Abdullah, M.T., Ali, A.Y. and Suleman, P. (2008) Biological on brinjal by farmers in Punjab. Indian J. Ext. Educ., 55,
+control of Sclerotinia sclerotiorum (Lib.) de bary with 215–219.
+Trichoderma harzianum and Bacillus amyloliquefaciens.
+Crop Prot., 27, 1354–1359. Choudhary, D.K. and Johri, B.N. (2009) Interactions of Bacillus
+spp. and plants -with special reference to induced systemic
+Akhtar, J. and Choube, H.S. (2003) Studies on Phomopsis resistance (ISR). Microbiol. Res., 164, 493–513.
+blight of brinjal with special reference to variability in
+Phomopsis vexans, the incitant of the disease. J. Mycol. Choudhary, D.K., Prakash, A. and Johri, B.N. (2007) Induced
+Plant Pathol., 33, 465–468. systemic resistance (ISR) in plants: Mechanism of action.
+Indian J. Microbiol., 47, 289–297.
+Ankri, S. and Mirelman, D. (1999) Antimicrobial properties of
+allicin from garlic. Microbe. Infect., 1, 125–129. Choudhury, B. and Malda, T.S. (1968) Brinjal: A vegetable of
+masses. Indian Hortic., 12, 21–22.
+Audenaert, K., Pattery, T., Cornelis, P. and Höfte, M. (2002)
+Induction of systemic resistance to Botrytis cinerea in Chowdhury, S.R. and Hasija S.K. (1979) Pathological studies
+tomato by Pseudomonas aeruginosa 7NSK2: Role of on Phomopsis vexans causing soft rot of brinjal fruits.
+salicylic acid, pyochelin, and pyocyanin. Mol. Plant Indian Phytopathol., 32, 495–496.
+Microbe Interact., 15, 1147–1156.
+Contreras-Cornejo, H.A., Macias-Rodriguez, L., Beltran-
+Aziz, A., Trotel-Aziz, P., Dhuicq, L., Jeandet, P., Couderchet, M. Pena, E., Herrera-Estrella, A. and Lopez-Bucio, J. (2011)
+2022 Ahmed et al.: Induced resistance in brinjal against Phomopsis blight 17
+Trichoderma-induced plant immunity likely involves Farmer, E.E., Johnson, R.R. and Ryan, C.A. (1992) Regulation
+both hormonal and camalexin-dependent mechanisms of expression of proteinase inhibitor genes by methyl
+in Arabidopsis thaliana and confers resistance against jasmonate and jasmonic acid. Plant Physiol., 98, 995–1002.
+necrotrophic fungi Botrytis cinerea. Plant Signal. Behav.,
+6, 1554–1563. Felix, S., Lallmahomed, G.M. and Orieux, L. (1965) Eggplant
+wilt Diaporthe vexans (Saccardo and Sydow) Gratz. in
+Cristina, M.B. (2002) Pesticide management of major pests and Mauritius. Rev. Agricol. Sucre Maurice, 44, 182–186.
+diseases of eggplant. Veggies Today, 2, 12–15.
+Friedrich, L., Lawton, K., Ruess, W., Masner, P.,
+Das, S., Sarma, T.C. and Tapadar, S.A. (2014) In vitro evaluation Specker, N., Gut-Rella, M., Meier, B., Dincher, S.,
+of fungicides and two species of Trichoderma against Staub, T., Uknes, S., Metraux, J.P., Kessmann, H. and
+Phomopsis vexans causing fruit rot of brinjal (Solanum Ryals, J. (1996) A benzothiadiazole derivative induces
+melongena L.). Int. J. Sci. Res., 4, 1–2. systemic acquired resistance in tobacco. Plant J., 10,
+61–70.
+Das, S.N. and Sarma, T.C. (2012) Some micro-fungi and
+their association on the incidence of diseases of brinjal Garcia-Estrada, R.S., Cruz-Lachica, I., Osuna-García, L.A. and
+(Solanum melongena L.) in Western Assam. Bioscan, 1, Márquez-Zequera, I. (2021) First report of eggplant fruit
+303–306. rot caused by Phytophthora nicotianae in Mexico. Plant
+Dis., 105, 513.
+Datar, V.V. and Ashtaputre, J.U. (1988) Studies on resistance to
+Phomopsis fruit rot in eggplant. Indian Phytopathol., 41,
+Gomes, R.R., Glienke, C., Videira, S.I.R., Lombard, L.,
+637–638.
+Groenewald, J.Z. and Crous, P.W. (2013) Diaporthe:
+A genus of endophytic, saprobic, and plant pathogenic
+De-Almeida Halfeld-Vieira, B., da Silva, W.L.M.,
+fungi. Persoonia, 31, 1–41.
+Schurt, D.A., Ishida, A.K.N., de Souza, G.R.
+and de Lima Nechet, K. (2015) Understanding the
+Gozzo, F. (2003) Systemic acquired resistance in crop
+mechanism of biological control of passionfruit bacterial
+protection: From nature to a chemical approach. J. Agric.
+blight promoted by autochthonous phylloplane bacteria.
+Food Chem., 51, 4487–4503.
+Biol. Control., 80, 40–49.
+Gratz, L.O. (1942) The perfect stage of Phomopsis vexans.
+De-Meyer, G., Bigirimana, J., Elad, Y. and Höfte, M. (1998)
+Phytopathology, 32, 540–542.
+Induced systemic resistance in Trichoderma harzianum
+T39 biocontrol of Botrytis cinerea. Eur. J. Plant Pathol.,
+Habib, A., Sahi, S.T., Ghazanfer, M.U. and Ali, S. (2007)
+104, 279–286.
+Evaluation of some fungicides against seed born mycoflora
+of eggplant and their comparative efficacy regarding seed
+De-Meyer, G., Capieau, K., Audenaert, K., Buchala, A.,
+germination. Int. J. Agric. Biol., 9, 519–520.
+Metraux, J.P. and Hofte, M. (1999) Nanogram amounts
+of salicylic acid produced by the rhizobacterium
+Harel, Y.M., Kolton, M., Elad, Y., Rav-David, D., Cytryn, E.,
+Pseudomonas aeruginosa 7NSK2 activate the systemic
+Borenshtein, M., Shulchani, R. and Graber, E.R. (2012)
+acquired resistance pathway in bean. Mol. Plant Microbe
+Biochar impact on plant development and disease
+Interact. 12, 450–458.
+resistance in pot trials. Biol. Contol Fungal Bacterial
+Plant Pathog., 78, 141–147.
+Dhakate, S.R., Ingle, Y.V., Bhongle, S.A. and Goramnagar, H.B.
+(2008) Efficacy of botanicals against Phomopsis blight of
+Harter, L.L. (1914) Fruit rot, leaf spot and stem blight of
+brinjal. Plant Arch., 8, 585–588.
+eggplant caused by Phomopsis vexans, J. Agric. Res., 5,
+Dhamdhere, S. and Mathur, R. (1994) Efficacy of some foliar 331–338.
+insecticides against Aphis gossypii Glover infesting
+Hossain, M.I., Islam, M.R., Uddin, M.N. Arifuzzaman, S.M.
+brinjal. J. Entomol. Res., 18, 283–285.
+and Hasan G.N. (2013) Control of Phomopsis blight of
+Edgerton, C.W. and Moreland, C.C. (1921) Eggplant blight. eggplant through fertilizer and fungicides management.
+Louisiana Agric. Exp. Station Bull., 178, 1–44. Int. J. Agric. Res. Innov. Technol., 3, 66–72.
+Elad, Y., David, D.R., Harel, Y.M., Borenshtein, M., Hossain, M.T., Hossain, S., Islam, M.A., Khan, M.A.R. and
+Kalifa, H.B., Silber, A. and Graber, E.R. (2010) Induction Hossain, S.M.M. (2009) Awareness of the farmers on
+of systemic resistance in plants by biochar, a soil-applied the use of hot water seed treatment device for controlling
+carbon sequestering agent. Am. Phytopathol. Soc., 100, Phomopsis blight of eggplant (Solanum melongena L.).
+913–921. Bangladesh J. Agric. Res., 34, 723–727.
+Enyedi, A.J., Yalpani, N., Silverman, P. and Raskin, I. (1992) Hussain, M.Z., Rahman, M.A. and Bashar, M.A. (2005)
+Signal molecules in systemic plant resistance to pathogens Screening of brinjal accessions for bacterial wilt caused by
+and pests. Cell, 70, 879–886. Ralstonia solanacearum. Bangladesh J. Bot., 34, 53–58.
+18 Biopesticides International Vol. 18, no. 1
+Islam, M.M., Asaduzzaman, M., Faruk, M.I., Hossain, M.S., of induced resistance in tomato plants against Fusarium
+Sarker, M.M.R. and Alam, K.M. (2020) Environmental through inorganic chemicals. J. Mycopathol. Res., 48,
+and chemical control of Phomopsis blight and fruit rot of 213–219.
+eggplant caused By Phomopsis vexans. J. Sci. Found., 18,
+81–87. Kumar, A., Sachan, S.K., Kumar, S. and Kumar, P. (2017)
+Efficacy of some novel insecticides against whitefly
+Islam, S.J. and Pan, S. (1993) Economics of fungicidal control (Bemisia tabaci Gennadius) in brinjal. J. Entomol. Zool.
+of Phomopsis leaf blight of eggplant. Indian Phytopathol., Stud., 5, 424–427.
+46, 383–388.
+Kumar, S., Biswas, S.K., Prakesh, H.G. and Singh, D.P. (2020)
+Islam, S.J. and Sitansu P. (1990) Variabilities among isolates of Evaluation of inducers in systemic acquired resistance for
+Phomopsis vexans. Environ. Ecol., 8, 315–319. management of brinjal Phomopsis blight. Plant Pathol. J.,
+19, 54–65.
+Jadon, K.S. (2009) Eco-friendly management of brinjal collar
+rot caused by Sclerotium rolfsii Sacc. Indian Phytopathol., Kumar, S., Misra, A., Verma, A., Roy, R., Tripathi, A., Ansari, K.
+62, 345–347. and Dwivedi, P. (2011) Bt Brinjal in India: A long way to
+go. GM Crops, 2, 92–98.
+Jaiswal, A.K., Alkan, N., Elad, Y. Sela, N., Philosoph, A.M.,
+Graber, E.G. and Omer Frenkel, O. (2020) Molecular Lakshmi, R.R., Purushotham, K., Naidu, L.N. and Padma, S.S.V.
+insights into biochar-mediated plant growth promotion (2013) Application of principal component and cluster
+and systemic resistance in tomato against Fusarium crown analyses in brinjal (Solanum melongena L.). Plant Arch.,
+and root rot disease. Sci. Rep., 10, 13934–13949. 13, 297–303.
+Jakatimath, S.P., Mesta, R.K., Mushrif, S.K., Biradar, I.B. and Mahadevakumar, S., Amruthavalli, C., Sridhar, K.R. and
+Ajjappalavar, P.S. (2017) In vitro evaluation of fungicides,
+Janardhana, G.R. (2017) Prevalence, incidence and
+botanicals and bio-agents against Phomopsis vexans, the
+molecular characterization of Phomopsis vexans (Diaporthe
+causal agent of fruit rot of brinjal. J. Pure Appl. Microbiol.,
+vexans) causing leaf blight and fruit rot disease of brinjal in
+11, 229–235.
+Karnataka (India). Plant Pathol. Quarantine, 7, 29–46.
+Jannat, R., Shaha, M., Rubayet, M.T. and Sultana, S. (2018)
+Manda, R.R., Addanki, V.A. and Srivastava, S. (2020)
+Role of chitosan in induction of defense response against
+Phomopsis blight of Solanum melongena-brinjal/eggplant.
+Phomopsis vexans and augmentation of growth and yield
+Plant Cell Biotechnol. Mol. Biol., 21, 7–12.
+of eggplant. Glob. J. Sci. Front. Res., 18, 6–13.
+Manna, B.K., Jash, S., Das, S. and Das, S.N. (2004) Effect of
+Ji, P., Campbell, H.L., Kloepper, J.W., Jones, J.B., Suslow, T.V.
+environmental factors on Phomopsis blight of brinjal and
+and Wilson, M. (2006) Integrated biological control of
+its management. Ann. Plant Prot. Sci., 12, 229–231.
+bacterial speck and spot of tomato under field conditions
+using foliar biological control agents and plant growth- Martinez-Medina, A., Fernandez, I., Sanchez-Guzman, M.J.,
+promoting rhizobacteria. Biol. Control., 36, 358–367. Jung, S.C., Pascual, J.A. and Pozo, M.J. (2013) Deciphering
+the hormonal signalling network behind the systemic
+Kalloo, G. (1988) Vegetable Breeding. Vol. 3. CRC Press, Boca
+resistance induced by Trichoderma harzianum in tomato.
+Raton, FL.
+Front. Plant Sci., 4, doi.org/10.3389/fpls.2013.00206.
+Kamala, T. and Indira, S. (2014) Molecular characterization of
+Mathys, J., De-Cremer, K., Timmermans, P., Van-Kerckhove, S.
+Trichoderma harzianum strains from Manipur and their
+and Lievens, B. (2012) Genome-wide characterization
+biocontrol potential against Pythium ultimum. Int. J. Curr.
+of ISR induced in Arabidopsis thaliana by Trichoderma
+Microbiol. Appl. Sci., 3, 258–270.
+hamatum T382 against Botrytis cinerea infection. Front.
+Kapoor, J.N. and Hingorani, M.K. (1958) Alternaria leaf spot Plant Sci., 3, doi:10.3389/fpls.2012.00108.
+and fruit rot of brinjal. Indian J. Agric. Sci., 28, 109.
+Maurhofer, M., Reimmann, C., Schmidli-Sacherer, P.,
+Karagiannidis, N., Bletsos, F. and Stavropoulos, N. (2002) Heeb, S.D. and Defago, G. (1998) Salicylic acid
+Effect of verticillium wilt (Verticillium dahliae Kleb.) biosynthesis genes expressed in Pseudomonas fluorescens
+and mycorrhiza (Glomus mosseae) on root colonization, strain P3 improve the induction of systemic resistance in
+growth and nutrient uptake in tomato and eggplant tobacco against tobacco necrosis virus. Phytopathology,
+seedlings. Sci. Hortic., 94, 145–156. 88, 678–684.
+Kishore, G.K., Pande, S. and Podile, A.R. (2005) Phylloplane Meziane, H., Van der Sluis, I., Van Loon, L.C., Höfte, M. and
+bacteria increase seedling emergence, growth and yield of Bakker, P.A.H. (2005) Determinants of Pseudomonas
+field-grown groundnut (Arachis hypogaea L.). Lett. Appl. putida WCS358 involved in inducing systemic resistance
+Microbiol., 40, 260–268. in plants. Mol. Plant Pathol., 6, 177–185.
+Kumar, A. and Biswas, S.K. (2010) Biochemical evidence Mohanty, A.K., Panda, R.N., Sethy, P.N. and Kar, A.K. (1995)
+2022 Ahmed et al.: Induced resistance in brinjal against Phomopsis blight 19
+Efficacy of crude leaf extracts of some selected plants in Pandey, K.K., Pandey, P.K., Kalloo, G. and Chaurasia, S.N.S.
+controlling brinjal blight and fruit rot pathogen Phomopsis (2002) Phomopsis blight in brinjal and sources of
+vexans. Crop Res. (Hisar), 9, 447–448. resistance. Indian Phytopathol., 55, 507–509.
+Mostert, L., Crous, P.W., Kang, J. and Phillips, A.J.L. (2001) Pani, B.K., Singh, D.V. and Nanda, S.S. (2013) Chemical
+Species of Phomopsis and a Libertella sp. occurring control and economics of Phomopsis blight and fruit rot of
+on grapevines with specific reference to South Africa: brinjal in the Eastern Ghat highland zone of Odisha. Int. J.
+Morphological, cultural, molecular and pathological Agric. Environ. Biotechnol., 6, 581.
+characterization. Mycologia, 93, 146–167.
+Panwar, N.S., Chand, J.N., Singh, H. and Paracer, S. (1970)
+Muneeshwar, S., Razdan, V.K. and Mohd, R. (2012) In vitro Phomopsis fruit rot of brinjal (Solanum melongena L.) in
+evaluation of fungicides and biocontrol agents against Punjab. Variability of fungus and role of seed in disease
+brinjal leaf blight and fruit rot pathogen Phomopsis vexans development. Ludhiana J. Agric., 7, 641–643.
+(Sacc. and Syd.) Harter. J. Life. Sci., 9, 327–332.
+Pawar, V.H. and Patel, M.K. (1957) Phomopsis blight and fruit
+Muneeshwar, S., Razdan, V.K. and Sourav, G. (2011) rot of brinjal. Indian Phytopathol., 10, 115–120.
+Occurrence of Phomopsis leaf blight and fruit rot of brinjal
+Peethala, R.D.S. (2019) Studies on Induced Systemic Resistance
+caused by Phomopsis vexans in Jammu. Ann. Plant Prot.
+in Brinjal against Phomopsis Blight through Inorganic
+Sci., 19, 396–399.
+Chemicals, M.Sc. Thesis, Lovely Professional University,
+Murali, T.S., Suryanarayanan, T.S. and Geeta, R. (2006) Phagwara, Punjab, pp. 60.
+Endophytic Phomopsis species: Host range and
+Phansawan, B., Prapamontol, T., Thavornyutikarn, P., Chantara, S.,
+implications for diversity estimates. Can. J. Microbiol.,
+Mangklabruks, A. and Santasup, C. (2015) A sensitive
+52, 673–680.
+method for determination of carbendazim residue in
+vegetable samples using HPLC-UV and its application in
+Naeem, M.Y. and Ugur, S. (2019) Nutritional content and health
+health risk assessment. Chiang Mai J. Sci., 3, 681–690.
+benefits of eggplant. Truk. J. Agric., 7, 31–36.
+Pieterse, C.M., Van der Does, D., Zamioudis, C., Leon-Reyes, A.
+Nahar, N., Islam, M.R., Uddin, M.M., de-Jong, P., Struik, P.C.
+and Van-Wees, S.C. (2012) Hormonal modulation of plant
+and Stomph, T.J. (2018) Reducing damping-off problems
+immunity. Annu. Rev. Cell. Dev. Biol., 28, 489–521.
+in eggplant (Solanum melongena L.): A participatory
+testing of nursery management in Bangladesh. Crop Prot.,
+Pieterse, C.M., Zamioudis, C., Berendsen, R.L., Weller, D.M.,
+112, 177–186.
+Van-Wees, S.C., and Bakker, P.A. (2014) Induced systemic
+resistance by beneficial microbes. Ann. Rev. Phytopathol.,
+Najar, A.G., Ali, A., Masoodi, L. and Khar, M.S. (2011)
+52, 347–375.
+Evaluation of native biocontrol agents against Fusarium
+solani f.sp. melongenae causing wilt disease of brinjal in
+Porter, E.P. (1943) Seed-borne inoculum of Phomopsis vexans-
+Kashmir. J. Phytol., 3, 31–34. its extent and effects. Plant Dis. Report, 27, 7–8.
+Nakum, K. (2021) Studies on the Compatibility of Bio-char Press, C.M., Wilson, M., Tuzun, S. and Kloepper, J.W. (1997) Salicylic
+and APSA-80 Induced Resistance against Bacterial wilt acid produced by Serratia marcescens 90-166 is not the primary
+in Tomato, M.Sc. Thesis, Lovely Professional University, determinant of induced systemic resistance in cucumber or
+Phagwara, Punjab, pp. 70. tobacco. Mol. Plant Microbe Interact., 10, 761–768.
+Nolla, J.A. (1929) The eggplant blight and fruit rot in Porto Quamruzzaman, A.K.M., Khatun, A. and Islam, F. (2020)
+Rico. J. Agric. Univ. Puerto Rico, 13, 35–57. Nutritional content and health benefits of Bangladeshi
+Eggplant cultivars. EJFOOD, 2, 76.
+Padmanabhan, S.Y. (1948) A new seedling disease of brinjal.
+Indian J. Agric. Sci., 17, 393–395. Rajkumar, M., Lee, K.J. and Freitas, H. (2008) Effects of
+chitin and salicylic acid on biological control activity of
+Pan, S. and Acharya, S. (1995) Studies on seed borne nature of
+Pseudomonas spp. against damping off of pepper. S. Afr.
+Phomopsis vexans (Sacc. and Syd.) Harter. Indian Agric.,
+J. Bot., 74, 268–273.
+39, 193–198.
+Ram, A. and Lele, V.C. (1968) A new leaf spot disease of brinjal
+Panda, P., Balram, N., Saxena, A. and Singh, H.B. (2015)
+caused by Corynespora cassiicola (Berk and Curd.). Wei.
+Biochemical characterization of phyllospheric isolates Indian Phytopathol., 21, 347–348.
+against Phomopsis blight of eggplant (Solanum melongena
+L.) caused by Phomopsis vexans. Plant Arch., 15, 71–74. Rangaswami, G. and Mahadevan, A. (1979) Diseases of Crop
+Plant in India. 2nd ed. Prentice Hall of India Pvt. Ltd.,
+Panda, R.N., Tripathy, S.K., Kar, J. and Mohanty, A.K. (1996) New Delhi.
+Antifungal efficacy of homeopathic drugs and leaf extracts
+in brinjal. Environ. Ecol., 14, 292–294. Rao, V.P., Dhande, G.W. and Pendse, G.S. (1986) A new
+20 Biopesticides International Vol. 18, no. 1
+leaf spot disease of Solanum melongena L. caused by Siddiqui, I.A. and Shoukat, S.S. (2003) Suppression of root-
+Helminthosporium halodes Drech. Curr. Sci., 55, 369–370. knot disease by Pseudomonas fluorescens CHA0 in
+tomato: Importance of bacterial secondary metabolite,
+Reddy, P.P. (2012) Plant growth-promoting rhizobacteria 2,4-diacetylphloroglucinol. Soil. Biol. Biochem., 35,
+(PGPR). In P.P. Reddy (ed.), Recent Advances in Crop 1615–1623.
+Protection. Springer, New Delhi, pp. 131–58.
+Singh, A.K. and Agrawal, K.C. (1999) Fungicidal control of
+Reddy, Y.N.P., Dahiya, O.S. and Jakhar, S.S. (2017) Effect of Phomopsis fruit rot of brinjal. Vegetable Sci., 26, 117–119.
+plant oils on seed quality parameters and disease control in
+chilli seeds infected with Colletotrichum capsici. Mysore Singh, B.K., Singh, S., Singh, B.K. and Yadav, S.M. (2014)
+J. Agric. Sci., 51, 808–813. Some important plant pathogenic disease of brinjal
+(Solanum melongena L.) and their management. Plant
+Reddy, Y.N.P., Jakhar, S.S. and Dahiya, O.S. (2018) Eco-
+Pathol. J., 13, 208–213.
+friendly measures for control of Phomopsis vexans and
+other mycoflora of Brinjal. Int. J. Curr. Microbiol. App. Singh, D.V., Raychawdhuri, S.P. and Seth, M.L. (1970) Two
+Sci., 7, 3667–3673. new leaf spot diseases of brinjal. Curr. Sci., 39, 541–542.
+Rehner, S.A. and Uecker, F.A. (1994) Nuclear ribosomal Singh, N. and Kumar, A. (2020) A review on bio-char:
+internal transcribed spacer phylogeny and host diversity A byproduct of bio-wastes. Int. J. Curr. Microbiol. Appl.
+in the coelomycete Phomopsis. Can. J. Bot., 72, Sci., 11, 1678–1691.
+1666–1674.
+Singh, R., Singh, P.C., Dinesh, K. and Sachan, N.S. (2012)
+Rohini, Gowtham, H.G. and Niranjana, S.R. (2015) Evaluation Management of Phomopsis leaf blight of brinjal through
+of efficacy of fungicides against Phomopsis leaf blight different fungicides and biopesticides. Hortic. Flora Res.
+of brinjal (Solanum melongena L.). Int. J. Agric. Sci., 5, Spectr., 1, 371–374.
+45–50.
+Sohi, H.S., Jain, S.S., Sharma, S.L. and Verma, B.R. (1964)
+Rohini, H.G., Hariprasad, P. and Niranjana, S.R. (2016) Cultural, New records of plant diseases from Himachal Pradesh.
+morphological and physiological characterization of Indian Phytopathol., 17, 35–41.
+Phomopsis vexans isolates from different brinjal (Solanum
+melongena L) growing regions of Karnataka, India. Int. J. Sowndhararajan, K., Marimuthu, S. and Manian, S.
+Pharm. Biol. Sci., 7, 70–77. (2013) Biocontrol potential of phylloplane bacterium
+Ochrobactrum anthropi BMO-111 against blister blight
+Roze, M., Costet, L. and Jourda, C. (2017) First report of disease of tea. J. Appl. Microbiol., 114, 209–218.
+Phomopsis fruit rot of Eggplant in Reunion Island. Plant
+Dis., 101, 1326–1326. Srinivas, C., Niranjana, S.R. and Shetty, H.S. (2005) Effect of
+bioagents and fungicides against Phomopsis vexans and on
+Ryals, J.A., Neuenschwander, U.H., Willits, M.G., Molina, A.,
+seed quality of brinjal. Crop Improv., 32, 95–101.
+Steiner, H.Y. and Hunt, M.P. (1996) Systemic acquired
+resistance. Plant Cell, 8, 1809–1819. Sticher, L., Mauch-Mani, B. and Metraux, J.P. (1997) Systemic
+acquired resistance. Annu. Rev. Plant Pathol., 35, 235–270.
+Sabalpara, A.N., Patel, D.U., Pandya, J.R. and Chawda, S.K.
+(2009) Evaluation of fungicides against Phomopsis Sugha, S.K. and Kumar, S. (2003) Effect of fertilizers on
+vexans. J. Mycol. Plant Pathol., 39, 55–58. Phomopsis disease (Phomopsis vexans) of brinjal
+(Solanum melongena). Indian J. Agric. Sci., 73, 32–34.
+Senthilraja, G., Anand, T., Durairaj, C., Kennedy, J.S.,
+Suresh, S., Raguchander, T. and Samiyappan, R. (2010) Tosi, L., Luigetti, R. and Zazzerini, A. (1998) Induced resistance
+A new microbial consortia containing entomopathogenic against Plasmopara helianthi in sunflower plants by DL-beta-
+fungus, Beauveria bassiana and plant growth amino-n-butyric acid. J. Phytopathol., 146, 295–302.
+promoting rhizobacteria, Pseudomonas fluorescens for
+simultaneous management of leaf miners and collar Udayashankar, A.C., Nayaka, C.S., Archana, B.,
+rot disease in groundnut. Biocontrol Sci. Technol., 20, Lakshmeesha, T.R., Niranjana, S.R., Lund, O.S. and
+449–464. Prakash, H.S. (2019) Specific PCR‐based detection of
+Phomopsis vexans the cause of leaf blight and fruit rot
+Sharma, J.H. and Tayde, A.R. (2017) Population dynamics of pathogen of Solanum melongena L. Lett. Appl. Microbiol.,
+brinjal fruit and shoot borer, Leucinodes orbonalis Guen. 69, 358–365.
+and Hadda beetle, Epilachna vigintioctopunctata Fab.
+on brinjal at Allahabad agroclimatic region. Int. J. Curr. Upamanya, G.K. and Dutta, P. (2019) Screening of biocontrol
+Microbiol. Appl. Sci., 6, 2055–2060. agents against pathogens causing diseases of brinjal. Int. J.
+Curr. Microbiol. App. Sci., 8, 1232–1240.
+Sharmin, D., Meah, M.B. and Moniruzzaman, M. (2010)
+Inheritance of resistance to Phomopsis blight and fruit rot Vaghasiya, T.P. (2021) Studies on Induced Systemic Resistance
+in brinjal. J. Agrofor. Environ., 3, 135–140. against Phomopsis vexans in Brinjal, M.Sc. Thesis, Lovely
+2022 Ahmed et al.: Induced resistance in brinjal against Phomopsis blight 21
+Professional University, Phagwara, Punjab, pp 80. Watanabe, T. (1977) Effects of probenazole (Oryzemater) on
+each stage of rice blast fungus (Pyricularia oryzae Cavara)
+Van de Mortel, J.E., De Vos, R.C.H., Dekkers, E., Pineda, A. and in its life cycle. J. Pestic. Sci., 2, 395–404.
+Guillod, L. (2012) Metabolic and transcriptomic changes
+induced in Arabidopsis by the rhizobacterium Pseudomonas Weller, C.G. (1922) Cercospora leaf spot of eggplant.
+fluorescens SS101. Plant Physiol., 160, 2173–2188. Phytopathology, 12, 61–65.
+Yan, Z., Reddy, M.S. and Kloepper, J.W. (2003) Survival
+Van-Loon, L.C. (1997) Induced resistance in plants and the role
+and colonization of rhizobacteria in a tomato transplant
+of pathogenesis-related proteins. Eur. J. Plant Pathol.,
+system. Can. J. Microbiol., 49, 383–389.
+103, 753–765.
+Zhang, S., Moyne, A.L., Reddy, M.S. and Kloepper, J.W. (2002)
+Vishunavat, K. and Kumar, S. (1993) Detection and transmission
+The role of salicylic acid in induced systemic resistance
+of seedborne inoculum of Phomopsis vexans (Sacc. and
+elicited by plant growth-promoting rhizobacteria against
+Syd.) Harter and the effect of infection on seed quality in blue mold of tobacco. Biol. Control, 25, 288–296.
+eggplant (S. melongena L.), Seed Res., 21, 66–71.
+Zhang, Y., Wang, D.H. and Zhang, C.Q. (2016) Management of
+Vishunavat, K. and Kumar, S. (1994) Location of infection of benzimidazole fungicide resistance in eggplant brown rot
+Phomopsis vexans in brinjal seed. Indian J. Mycol. Plant (Phomopsis vexans) with pyraclostrobin. Phytoparasitica,
+Pathol., 24, 226. 44, 313–324.
+Received: 23 Feb 2022; Accepted: 04 May 2022
