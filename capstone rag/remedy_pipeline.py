@@ -18,7 +18,9 @@ from remedy_module import RULE_BASE
 from weather_service import fetch_weather, weather_advisories, canonical_disease
 from hard_rules import evaluate_rules, apply_rag_rules
 
-CHROMA_DB_PATH = "./chroma_db"
+import os
+BASE_RAG_DIR = os.path.dirname(os.path.abspath(__file__))
+CHROMA_DB_PATH = os.path.join(BASE_RAG_DIR, "chroma_db")
 COLLECTION_NAME = "eggplant_remedies"
 MIN_SIMILARITY = 0.35          # cosine similarity floor for retrieved chunks
 CONFIDENCE_THRESHOLD = 0.5

@@ -11,7 +11,9 @@ Usage:
 import chromadb
 from sentence_transformers import SentenceTransformer
 
-CHROMA_DB_PATH = "./chroma_db"
+import os
+BASE_RAG_DIR = os.path.dirname(os.path.abspath(__file__))
+CHROMA_DB_PATH = os.path.join(BASE_RAG_DIR, "chroma_db")
 COLLECTION_NAME = "eggplant_remedies"
 
 # ---------------------------------------------------------------------

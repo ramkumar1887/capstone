@@ -6,6 +6,10 @@
 *.bmp
 *.tiff
 *.gif
+*.mp4
+*.avi
+*.mov
+*.mkv
 *.JPG
 *.JPEG
 *.PNG
@@ -18,9 +22,11 @@ Eggplant Leaf Disease Detection Dataset/
 Eggplant disease detection.v1i.coco/
 Eggplant fruit diseases.v1i.coco/
 Fruit rot.v1i.coco/
-diseases/
-*.coco/
-*.coco-segmentation/
+# Test datasets and manual masks for testing
+capstone_app/test_data/
+test_data/
+capstone_app/models/
+models/
 
 # Training Outputs & Cache
 runs/
